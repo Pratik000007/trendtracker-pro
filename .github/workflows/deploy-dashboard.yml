@@ -1,0 +1,38 @@
+name: TrendTracker - Deploy Dashboard
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'reports/**'
+      - 'dashboard.py'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Generate static dashboard
+        run: |
+          # Export Streamlit to static HTML (requires streamlit-static or similar)
+          # Or deploy Streamlit Cloud separately
+          echo "Dashboard deployment step - configure based on your hosting choice"
+      
+      # Uncomment below to deploy to GitHub Pages (static version)
+      # - name: Deploy to GitHub Pages
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./static-dashboard

@@ -1,0 +1,37 @@
+name: TrendTracker - PR Validation
+
+on:
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  test-and-lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run tests
+        run: |
+          # Add pytest tests here when you create them
+          echo "Tests passed (placeholder)"
+      
+      - name: Lint with flake8
+        run: |
+          pip install flake8
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+      
+      - name: Type check with mypy
+        run: |
+          pip install mypy
+          mypy collectors/ analysis/ --ignore-missing-imports

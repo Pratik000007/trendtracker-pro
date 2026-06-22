@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  # Redis for caching and deduplication
+  redis:
+    image: redis:7-alpine
+    container_name: trendtracker-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    command: redis-server --appendonly yes
+
+  # Main collector service - runs on schedule via cron or manually
+  collector:
+    build: .
+    container_name: trendtracker-collector
+    env_file:
+      - .env
+    volumes:
+      - ./reports:/app/reports
+      - ./collectors:/app/collectors
+      - ./analysis:/app/analysis
+      - ./main.py:/app/main.py
+    depends_on:
+      - redis
+    # Override default to keep container alive for scheduled runs
+    command: ["sh", "-c", "echo 'Collector ready. Run: docker-compose exec collector python main.py' && tail -f /dev/null"]
+
+  # Streamlit dashboard
+  dashboard:
+    build: .
+    container_name: trendtracker-dashboard
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./reports:/app/reports
+      - ./dashboard.py:/app/dashboard.py
+    depends_on:
+      - redis
+    command: ["streamlit", "run", "dashboard.py", "--server.port=8501", "--server.address=0.0.0.0"]
+
+  # Optional: Scheduler service to run collector every 6 hours
+  scheduler:
+    build: .
+    container_name: trendtracker-scheduler
+    env_file:
+      - .env
+    volumes:
+      - ./reports:/app/reports
+      - ./collectors:/app/collectors
+      - ./analysis:/app/analysis
+      - ./main.py:/app/main.py
+    depends_on:
+      - redis
+    command: >
+      sh -c "
+        echo '*/30 * * * * cd /app && python main.py >> /app/reports/cron.log 2>&1' | crontab - &&
+        crond -f
+      "
+
+volumes:
+  redis-data:

@@ -1,0 +1,4129 @@
+{
+  "generated_at": "2026-06-22T09:32:58.126047",
+  "keywords_searched": [
+    "AI business tools",
+    "SaaS pricing",
+    "startup funding",
+    "remote work",
+    "productivity software",
+    "B2B marketing"
+  ],
+  "total_posts_analyzed": 285,
+  "trending_topics": [
+    {
+      "topic": "claude",
+      "mention_count": 5,
+      "engagement_score": 1626.33,
+      "sentiment": {
+        "positive": 3,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.754
+          },
+          {
+            "label": "positive",
+            "score": 0.875
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 60.0,
+        "negative_pct": 40.0
+      },
+      "platforms": [
+        "github",
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "ruvnet/ruflo: \ud83c\udf0a The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversat",
+          "url": "https://github.com/ruvnet/ruflo",
+          "platform": "github"
+        },
+        {
+          "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "platform": "github"
+        },
+        {
+          "text": "tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automati",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "platform": "github"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "use",
+      "mention_count": 3,
+      "engagement_score": 1136.52,
+      "sentiment": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.827
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+          "url": "https://github.com/garrytan/gstack",
+          "platform": "github"
+        },
+        {
+          "text": "#ad use 8x social for marketing #brand #influenceragency #marketing #ugc #ceo #b2b #growth #shorts. ",
+          "url": "https://youtube.com/watch?v=Bq9rb3XxEh0",
+          "platform": "youtube"
+        },
+        {
+          "text": "How to Use Slack Bots to Enhance Productivity (Step By Step) (2026 Guide). How to Use Slack Bots to Enhance Productivity (Step By Step) (2026 Guide)\n\n",
+          "url": "https://youtube.com/watch?v=XF-HiYC5N2w",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "exact",
+      "mention_count": 2,
+      "engagement_score": 1128.19,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+          "url": "https://github.com/garrytan/gstack",
+          "platform": "github"
+        },
+        {
+          "text": "I built a $10K/Month SaaS With Claude AI in 4 Days.... Automate your business with AI -  https://autoploy.us/\nThe EXACT Playbook I Used to Build This ",
+          "url": "https://youtube.com/watch?v=AaDBqaHy1nk",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "agent",
+      "mention_count": 2,
+      "engagement_score": 673.73,
+      "sentiment": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "ruvnet/ruflo: \ud83c\udf0a The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversat",
+          "url": "https://github.com/ruvnet/ruflo",
+          "platform": "github"
+        },
+        {
+          "text": "withastro/flue: The sandbox agent framework.",
+          "url": "https://github.com/withastro/flue",
+          "platform": "github"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "agents",
+      "mention_count": 11,
+      "engagement_score": 621.0,
+      "sentiment": {
+        "positive": 5,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "positive",
+            "score": 0.987
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.875
+          },
+          {
+            "label": "negative",
+            "score": 0.823
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          }
+        ],
+        "positive_pct": 45.5,
+        "negative_pct": 54.5
+      },
+      "platforms": [
+        "devto",
+        "github",
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "platform": "github"
+        },
+        {
+          "text": "mukul975/Anthropic-Cybersecurity-Skills: 754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "platform": "github"
+        },
+        {
+          "text": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and ",
+          "url": "https://github.com/stablyai/orca",
+          "platform": "github"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "skills",
+      "mention_count": 2,
+      "engagement_score": 527.76,
+      "sentiment": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.875
+          },
+          {
+            "label": "negative",
+            "score": 0.823
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "platform": "github"
+        },
+        {
+          "text": "mukul975/Anthropic-Cybersecurity-Skills: 754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "platform": "github"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "marketing",
+      "mention_count": 14,
+      "engagement_score": 394.46,
+      "sentiment": {
+        "positive": 6,
+        "negative": 8,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 0.977
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.875
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "platform": "github"
+        },
+        {
+          "text": "I WISH Someone had told me About This CAREER Earlier \ud83d\udc40\ud83e\udd2f. If you're good at marketing, enjoy strategy, and love understanding customers, Product Market",
+          "url": "https://youtube.com/watch?v=4k_1cCKov7s",
+          "platform": "youtube"
+        },
+        {
+          "text": "Red Bull Business Marketing Stretege ? #shorts. Red Bull Business Marketing Stretege ? #shorts #business #marketing",
+          "url": "https://youtube.com/watch?v=8XiwLwRivkQ",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "framework",
+      "mention_count": 5,
+      "engagement_score": 383.91,
+      "sentiment": {
+        "positive": 1,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.833
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 20.0,
+        "negative_pct": 80.0
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "facebook/lexical: Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+          "url": "https://github.com/facebook/lexical",
+          "platform": "github"
+        },
+        {
+          "text": "THUDM/slime: slime is an LLM post-training framework for RL Scaling.",
+          "url": "https://github.com/THUDM/slime",
+          "platform": "github"
+        },
+        {
+          "text": "withastro/flue: The sandbox agent framework.",
+          "url": "https://github.com/withastro/flue",
+          "platform": "github"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "code",
+      "mention_count": 3,
+      "engagement_score": 350.18,
+      "sentiment": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.984
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.875
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "devto",
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "platform": "github"
+        },
+        {
+          "text": "Free Pricing Table Generator with Live Preview & Copy Code. Create stunning pricing tables in seconds with our Pricing Table Generator with Live Previ",
+          "url": "https://youtube.com/watch?v=0zg1ihQIqak",
+          "platform": "youtube"
+        },
+        {
+          "text": "What happens to software when code becomes cheap? new thoughts",
+          "url": "https://dev.to/kemoo/what-happens-to-software-when-code-becomes-cheap-new-thoughts-4ga5",
+          "platform": "devto"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "text",
+      "mention_count": 2,
+      "engagement_score": 237.62,
+      "sentiment": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.581
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 100.0,
+        "negative_pct": 0.0
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "facebook/lexical: Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+          "url": "https://github.com/facebook/lexical",
+          "platform": "github"
+        },
+        {
+          "text": "This AI Lives Inside Your Text Messages \ud83e\udd2f. What if your next AI assistant wasn't an app...\n\nbut a contact in your messages?\n\n\ud83d\ude80 Meet folk.\n\nAn AI frien",
+          "url": "https://youtube.com/watch?v=gYqqWan8bzw",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "video",
+      "mention_count": 9,
+      "engagement_score": 222.43,
+      "sentiment": {
+        "positive": 5,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.971
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.972
+          },
+          {
+            "label": "positive",
+            "score": 0.919
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 55.6,
+        "negative_pct": 44.4
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "Healthy habits should be non-negotiable!. \u2764\ufe0f sponsor this channel: https://nunomaduro.com/sponsorships \ud83d\ude4c\ud83c\udffb this video was made possible by:\n\ud83d\udc30 coderabbi",
+          "url": "https://youtube.com/watch?v=AghQaKxPF0A",
+          "platform": "youtube"
+        },
+        {
+          "text": "Check Out Canva's Hidden AI Video Tools Nobody Is Talking About - Yet!. Check Out Canva's Hidden AI Video Tools Nobody Is Talking About - Yet!\nWant to",
+          "url": "https://youtube.com/watch?v=0UXpJq81FNY",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "production",
+      "mention_count": 2,
+      "engagement_score": 205.6,
+      "sentiment": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 100.0,
+        "negative_pct": 0.0
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "Corporate Testimonial Video Production Orlando | How to Plan Customer Success Videos. When it comes to creating powerful corporate testimonial videos,",
+          "url": "https://youtube.com/watch?v=69nuChiVO18",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "work",
+      "mention_count": 21,
+      "engagement_score": 145.04,
+      "sentiment": {
+        "positive": 11,
+        "negative": 10,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.927
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.91
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.906
+          },
+          {
+            "label": "positive",
+            "score": 0.922
+          },
+          {
+            "label": "negative",
+            "score": 0.982
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 0.931
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.907
+          },
+          {
+            "label": "negative",
+            "score": 0.563
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "positive",
+            "score": 0.939
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          }
+        ],
+        "positive_pct": 52.4,
+        "negative_pct": 47.6
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "IT \u0915\u0930\u094d\u092e\u091a\u093e\u0931\u094d\u092f\u093e\u0902\u091a\u0940 Work From Home \u091a\u0940 \u092e\u093e\u0917\u0923\u0940; \u091f\u094d\u0930\u0945\u092b\u093f\u0915, \u0907\u0902\u0927\u0928 \u0926\u0930\u0935\u093e\u0922\u0940\u092e\u0941\u0933\u0947 \u0938\u0902\u0924\u093e\u092a | IT sector work from home. IT \u0915\u0930\u094d\u092e\u091a\u093e\u0931\u094d\u092f\u093e\u0902\u091a\u0940 Work From Home \u091a\u0940 \u092e\u093e\u0917\u0923\u0940; \u091f\u094d\u0930\u0945\u092b\u093f\u0915",
+          "url": "https://youtube.com/watch?v=uYQ-S41vqc4",
+          "platform": "youtube"
+        },
+        {
+          "text": "\u20b925,000 Salary \ud83d\ude33 Concentrix Work From Home Job 2026 | Assessment Explained. \ud83d\udd25 Concentrix Work From Home Job 2026 | Assessment Explained \ud83d\udd25\n\nIn this vid",
+          "url": "https://youtube.com/watch?v=rfxn7AHFqlY",
+          "platform": "youtube"
+        },
+        {
+          "text": "How I Work a Full Time 9\u20135 While Living in a Van and Growing a YouTube Channel. Art Prints/Stickers Available Here: https://eucalyptdesigns.com.au/\n\nH",
+          "url": "https://youtube.com/watch?v=z6QJEl0xwkc",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "world",
+      "mention_count": 4,
+      "engagement_score": 109.28,
+      "sentiment": {
+        "positive": 4,
+        "negative": 0,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.947
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 100.0,
+        "negative_pct": 0.0
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "Why Every Startup Wants Y Combinator | Business \ud83d\udc40. Why does the whole startup world pay attention when a company joins Y Combinator? \ud83d\ude33\n\nBecause Y Comb",
+          "url": "https://youtube.com/watch?v=aZOfpZvEhHM",
+          "platform": "youtube"
+        },
+        {
+          "text": "Escape the 9-5: Work From Anywhere Freedom. EscapeThe9-5, WorkFromAnywhere, FreelanceLife, DigitalNomad, RemoteJobs\nWhen you don't have to compromise ",
+          "url": "https://youtube.com/watch?v=GL5CJfuOHCI",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "system",
+      "mention_count": 4,
+      "engagement_score": 108.83,
+      "sentiment": {
+        "positive": 2,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.934
+          },
+          {
+            "label": "positive",
+            "score": 0.878
+          },
+          {
+            "label": "negative",
+            "score": 0.956
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "github",
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "I Used AI to Build an Online Income System | Legendries AI Launchpad. Most people are still using AI for random prompts.\n\nBut AI can do much more than",
+          "url": "https://youtube.com/watch?v=s6-dJCen4Cc",
+          "platform": "youtube"
+        },
+        {
+          "text": "Daily_stock_analysis: LLM-powered multi-market stock analysis system",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "platform": "hackernews"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "home",
+      "mention_count": 15,
+      "engagement_score": 105.88,
+      "sentiment": {
+        "positive": 4,
+        "negative": 11,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.927
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.91
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.906
+          },
+          {
+            "label": "negative",
+            "score": 0.517
+          },
+          {
+            "label": "positive",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.982
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 0.931
+          },
+          {
+            "label": "negative",
+            "score": 0.563
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.904
+          }
+        ],
+        "positive_pct": 26.7,
+        "negative_pct": 73.3
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "IT \u0915\u0930\u094d\u092e\u091a\u093e\u0931\u094d\u092f\u093e\u0902\u091a\u0940 Work From Home \u091a\u0940 \u092e\u093e\u0917\u0923\u0940; \u091f\u094d\u0930\u0945\u092b\u093f\u0915, \u0907\u0902\u0927\u0928 \u0926\u0930\u0935\u093e\u0922\u0940\u092e\u0941\u0933\u0947 \u0938\u0902\u0924\u093e\u092a | IT sector work from home. IT \u0915\u0930\u094d\u092e\u091a\u093e\u0931\u094d\u092f\u093e\u0902\u091a\u0940 Work From Home \u091a\u0940 \u092e\u093e\u0917\u0923\u0940; \u091f\u094d\u0930\u0945\u092b\u093f\u0915",
+          "url": "https://youtube.com/watch?v=uYQ-S41vqc4",
+          "platform": "youtube"
+        },
+        {
+          "text": "\u20b925,000 Salary \ud83d\ude33 Concentrix Work From Home Job 2026 | Assessment Explained. \ud83d\udd25 Concentrix Work From Home Job 2026 | Assessment Explained \ud83d\udd25\n\nIn this vid",
+          "url": "https://youtube.com/watch?v=rfxn7AHFqlY",
+          "platform": "youtube"
+        },
+        {
+          "text": "Southwest is Hiring Remote + Little Experience Work From Home Jobs 2026. If you're tired of commuting to work every day and want to find the perfect w",
+          "url": "https://youtube.com/watch?v=lYx-WAVx6ls",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "startup",
+      "mention_count": 20,
+      "engagement_score": 88.88,
+      "sentiment": {
+        "positive": 7,
+        "negative": 13,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "positive",
+            "score": 0.985
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.972
+          },
+          {
+            "label": "positive",
+            "score": 0.959
+          },
+          {
+            "label": "positive",
+            "score": 0.947
+          },
+          {
+            "label": "negative",
+            "score": 0.676
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.961
+          },
+          {
+            "label": "positive",
+            "score": 0.806
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 0.969
+          },
+          {
+            "label": "negative",
+            "score": 0.978
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.984
+          },
+          {
+            "label": "positive",
+            "score": 0.924
+          }
+        ],
+        "positive_pct": 35.0,
+        "negative_pct": 65.0
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The new rules of startup survival in the middle east #dubai #resilient #geopolitics. The Middle East startup ecosystem is entering a new era.\n\nAs geop",
+          "url": "https://youtube.com/watch?v=edH7M4tf-Po",
+          "platform": "youtube"
+        },
+        {
+          "text": "Watch me launch a million dollar startup with AI (live). Build product visuals and ads in minutes with Higgsfield: https://higgsfield.ai/s/mcp-askmich",
+          "url": "https://youtube.com/watch?v=Tz881ee0f8M",
+          "platform": "youtube"
+        },
+        {
+          "text": "A $200M VC Fund. 30 Startup CEOs. One Day in NYC. Here's What Changed.. **Join my FREE newsletter - https://wallstreetpaper.substack.com/ **\n\nA VC fir",
+          "url": "https://youtube.com/watch?v=h5CSz8BpIj0",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "tools",
+      "mention_count": 25,
+      "engagement_score": 79.06,
+      "sentiment": {
+        "positive": 13,
+        "negative": 12,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.975
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.944
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 0.565
+          },
+          {
+            "label": "negative",
+            "score": 0.971
+          },
+          {
+            "label": "positive",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.968
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "positive",
+            "score": 0.944
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "positive",
+            "score": 0.655
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.919
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.976
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          }
+        ],
+        "positive_pct": 52.0,
+        "negative_pct": 48.0
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The AI Tools Every Founder Should Be Using Right Now. In this special SheerLuxe Small Business Collective Masterclass, Georgie Coleridge Cole sits dow",
+          "url": "https://youtube.com/watch?v=3b4SjcvHLTk",
+          "platform": "youtube"
+        },
+        {
+          "text": "Day 13: Content Creation with Canva, Video Tools & AI | EzyIntern UGC Internship Program. Welcome to Day 13 of the EzyIntern UGC Internship Program in",
+          "url": "https://youtube.com/watch?v=jK_Wm03KC6g",
+          "platform": "youtube"
+        },
+        {
+          "text": "Check Out Canva's Hidden AI Video Tools Nobody Is Talking About - Yet!. Check Out Canva's Hidden AI Video Tools Nobody Is Talking About - Yet!\nWant to",
+          "url": "https://youtube.com/watch?v=0UXpJq81FNY",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "business",
+      "mention_count": 25,
+      "engagement_score": 69.68,
+      "sentiment": {
+        "positive": 12,
+        "negative": 13,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.804
+          },
+          {
+            "label": "positive",
+            "score": 0.944
+          },
+          {
+            "label": "positive",
+            "score": 0.565
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "positive",
+            "score": 0.994
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.944
+          },
+          {
+            "label": "negative",
+            "score": 0.963
+          },
+          {
+            "label": "positive",
+            "score": 0.947
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "positive",
+            "score": 0.976
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.939
+          },
+          {
+            "label": "positive",
+            "score": 0.944
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.881
+          },
+          {
+            "label": "positive",
+            "score": 0.991
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          }
+        ],
+        "positive_pct": 48.0,
+        "negative_pct": 52.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "This AI Built a SaaS Business with User Auth, Admin Panel & Database. I Built a Complete SaaS Business with Google AI Studio (100% Free)\n\nIn this step",
+          "url": "https://youtube.com/watch?v=asZxADIfc5E",
+          "platform": "youtube"
+        },
+        {
+          "text": "Red Bull Business Marketing Stretege ? #shorts. Red Bull Business Marketing Stretege ? #shorts #business #marketing",
+          "url": "https://youtube.com/watch?v=8XiwLwRivkQ",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Most Underrated Skill in Business? Follow @julius-ai. Rahul Sonwalkar, Founder & CEO of Julius AI, breaks down why the \"Sell Me This Pen\" scene fr",
+          "url": "https://youtube.com/watch?v=v9F6DcCzR4U",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "llm",
+      "mention_count": 2,
+      "engagement_score": 68.99,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.976
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "github",
+        "hackernews"
+      ],
+      "sample_posts": [
+        {
+          "text": "THUDM/slime: slime is an LLM post-training framework for RL Scaling.",
+          "url": "https://github.com/THUDM/slime",
+          "platform": "github"
+        },
+        {
+          "text": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+          "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+          "platform": "hackernews"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "free",
+      "mention_count": 13,
+      "engagement_score": 63.56,
+      "sentiment": {
+        "positive": 4,
+        "negative": 9,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "positive",
+            "score": 0.985
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "positive",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.976
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          }
+        ],
+        "positive_pct": 30.8,
+        "negative_pct": 69.2
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\ud83d\udd25200+ FREE Online Internships | FREE Certificate | No Eligibility | Work From Home Internships. \ud83d\udd25 100% FREE Online Internships | Get Certificate in 1 ",
+          "url": "https://youtube.com/watch?v=r5jXTnOSL10",
+          "platform": "youtube"
+        },
+        {
+          "text": "A $200M VC Fund. 30 Startup CEOs. One Day in NYC. Here's What Changed.. **Join my FREE newsletter - https://wallstreetpaper.substack.com/ **\n\nA VC fir",
+          "url": "https://youtube.com/watch?v=h5CSz8BpIj0",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\udd25 IBM Remote AI Internship 2026 | Work From Home Internship | Free Certificate | Apply Now. VISIT COLLEGE VIDYA - https://cvadm.com/c7fnpj\n\n\ud83c\udf93 Find Gov",
+          "url": "https://youtube.com/watch?v=0HFpfhH_PvI",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "jobs",
+      "mention_count": 5,
+      "engagement_score": 44.88,
+      "sentiment": {
+        "positive": 1,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.906
+          },
+          {
+            "label": "negative",
+            "score": 0.982
+          },
+          {
+            "label": "negative",
+            "score": 0.973
+          },
+          {
+            "label": "positive",
+            "score": 0.924
+          },
+          {
+            "label": "negative",
+            "score": 0.996
+          }
+        ],
+        "positive_pct": 20.0,
+        "negative_pct": 80.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\u20b925,000 Salary \ud83d\ude33 Concentrix Work From Home Job 2026 | Assessment Explained. \ud83d\udd25 Concentrix Work From Home Job 2026 | Assessment Explained \ud83d\udd25\n\nIn this vid",
+          "url": "https://youtube.com/watch?v=rfxn7AHFqlY",
+          "platform": "youtube"
+        },
+        {
+          "text": "Work From Home Support Jobs Tamil 2026|Hiring Freshers 2026| #wfh #remotejobs #workfromhome #hiring. Work From Home Support Jobs Tamil 2026|Hiring Fre",
+          "url": "https://youtube.com/watch?v=r8wTtcQFgo8",
+          "platform": "youtube"
+        },
+        {
+          "text": "Remote jobs that are always hiring without an interview.  #wfh #remotework #workfromhome. ",
+          "url": "https://youtube.com/watch?v=bCHiHhI8i9Y",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "job",
+      "mention_count": 7,
+      "engagement_score": 44.07,
+      "sentiment": {
+        "positive": 1,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.906
+          },
+          {
+            "label": "negative",
+            "score": 0.517
+          },
+          {
+            "label": "positive",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          }
+        ],
+        "positive_pct": 14.3,
+        "negative_pct": 85.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\u20b925,000 Salary \ud83d\ude33 Concentrix Work From Home Job 2026 | Assessment Explained. \ud83d\udd25 Concentrix Work From Home Job 2026 | Assessment Explained \ud83d\udd25\n\nIn this vid",
+          "url": "https://youtube.com/watch?v=rfxn7AHFqlY",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\ude4c\ud83c\udffe NO PHONE Job! + Bilt is Hiring | Work From Home Jobs 2026. #workfromhomejobs2026  #workfromhome #remotework \n\ud83d\udc49\ud83c\udffe Ready for a REAL remote work resume",
+          "url": "https://youtube.com/watch?v=EGD9J4qjXfg",
+          "platform": "youtube"
+        },
+        {
+          "text": "This Remote Job Pays Up to $100/Hour. If you have a background in Physics, Chemistry, Biology, Mathematics, Engineering, or another academic field, th",
+          "url": "https://youtube.com/watch?v=afUbBhVqxfM",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "remote",
+      "mention_count": 12,
+      "engagement_score": 43.17,
+      "sentiment": {
+        "positive": 5,
+        "negative": 7,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.907
+          },
+          {
+            "label": "positive",
+            "score": 0.939
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          }
+        ],
+        "positive_pct": 41.7,
+        "negative_pct": 58.3
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Heavy Rain in the Remote Himalayas | Village Life, Hard Work & Survival in Extreme Weather. ",
+          "url": "https://youtube.com/watch?v=f_JYTivWPPk",
+          "platform": "youtube"
+        },
+        {
+          "text": "Southwest is Hiring Remote + Little Experience Work From Home Jobs 2026. If you're tired of commuting to work every day and want to find the perfect w",
+          "url": "https://youtube.com/watch?v=lYx-WAVx6ls",
+          "platform": "youtube"
+        },
+        {
+          "text": "Best travel setup for remote worker. Remote work on a single laptop screen means too many windows and not enough space. This portable dual-screen fold",
+          "url": "https://youtube.com/watch?v=zNMEyG2QoEE",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "analysis",
+      "mention_count": 2,
+      "engagement_score": 40.61,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.956
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "github",
+        "hackernews"
+      ],
+      "sample_posts": [
+        {
+          "text": "tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automati",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "platform": "github"
+        },
+        {
+          "text": "Daily_stock_analysis: LLM-powered multi-market stock analysis system",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "platform": "hackernews"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "software",
+      "mention_count": 11,
+      "engagement_score": 37.99,
+      "sentiment": {
+        "positive": 5,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.944
+          },
+          {
+            "label": "positive",
+            "score": 0.944
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "positive",
+            "score": 0.878
+          },
+          {
+            "label": "positive",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.984
+          },
+          {
+            "label": "positive",
+            "score": 0.975
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.947
+          }
+        ],
+        "positive_pct": 45.5,
+        "negative_pct": 54.5
+      },
+      "platforms": [
+        "devto",
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The minimum viable unit of saleable software",
+          "url": "https://brandur.org/minimum-viable-unit",
+          "platform": "hackernews"
+        },
+        {
+          "text": "Jensen Huang Predicts an Explosion of AI Agents Using Software Tools. \ud83d\udce2Jensen Huang Predicts an Explosion of AI Agents Using Software Tools\n\nJensen Hu",
+          "url": "https://youtube.com/watch?v=oNc8cwrgm48",
+          "platform": "youtube"
+        },
+        {
+          "text": "Top 10 AI Software Tools Every Business needs in 2026( Save Time & Money). \ud83d\ude80 Looking for the best AI software tools to grow your business in 2026? In ",
+          "url": "https://youtube.com/watch?v=_jmIWxJC2Y4",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "new",
+      "mention_count": 6,
+      "engagement_score": 36.26,
+      "sentiment": {
+        "positive": 2,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.717
+          },
+          {
+            "label": "positive",
+            "score": 0.806
+          },
+          {
+            "label": "negative",
+            "score": 0.925
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The new rules of startup survival in the middle east #dubai #resilient #geopolitics. The Middle East startup ecosystem is entering a new era.\n\nAs geop",
+          "url": "https://youtube.com/watch?v=edH7M4tf-Po",
+          "platform": "youtube"
+        },
+        {
+          "text": "How I got a new car WFH \ud83d\ude0a. ",
+          "url": "https://youtube.com/watch?v=ITo96xf72oU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Google's New Search Engine for AI Agents, Explained SIMPLY. Google's new search engine for AI agents is exactly what it sounds like: a second, paralle",
+          "url": "https://youtube.com/watch?v=9BYLg3D_YPk",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "day",
+      "mention_count": 8,
+      "engagement_score": 34.92,
+      "sentiment": {
+        "positive": 5,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.985
+          },
+          {
+            "label": "negative",
+            "score": 0.676
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 0.984
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 62.5,
+        "negative_pct": 37.5
+      },
+      "platforms": [
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Tell HN: Happy Fathers Day",
+          "url": "https://news.ycombinator.com/item?id=48620502",
+          "platform": "hackernews"
+        },
+        {
+          "text": "A $200M VC Fund. 30 Startup CEOs. One Day in NYC. Here's What Changed.. **Join my FREE newsletter - https://wallstreetpaper.substack.com/ **\n\nA VC fir",
+          "url": "https://youtube.com/watch?v=h5CSz8BpIj0",
+          "platform": "youtube"
+        },
+        {
+          "text": "Southwest is Hiring Remote + Little Experience Work From Home Jobs 2026. If you're tired of commuting to work every day and want to find the perfect w",
+          "url": "https://youtube.com/watch?v=lYx-WAVx6ls",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "google",
+      "mention_count": 6,
+      "engagement_score": 33.47,
+      "sentiment": {
+        "positive": 1,
+        "negative": 5,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.804
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.894
+          },
+          {
+            "label": "negative",
+            "score": 0.993
+          }
+        ],
+        "positive_pct": 16.7,
+        "negative_pct": 83.3
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "This AI Built a SaaS Business with User Auth, Admin Panel & Database. I Built a Complete SaaS Business with Google AI Studio (100% Free)\n\nIn this step",
+          "url": "https://youtube.com/watch?v=asZxADIfc5E",
+          "platform": "youtube"
+        },
+        {
+          "text": "Google's FREE Tool Just DESTROYED $90/Month Client Portals (Build in 20 Minutes). Google's free AI Studio API just made $90/month client portal platfo",
+          "url": "https://youtube.com/watch?v=H4_OY1-n4FQ",
+          "platform": "youtube"
+        },
+        {
+          "text": "Sirf Website URL Daalo Aur Yeh AI Poora Marketing Content Bana Dega. Google Pomelli AI aapki website scan karta hai, aapka brand samajhta hai, aur phi",
+          "url": "https://youtube.com/watch?v=WNVSD39HolY",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "funding",
+      "mention_count": 6,
+      "engagement_score": 33.46,
+      "sentiment": {
+        "positive": 2,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.961
+          },
+          {
+            "label": "negative",
+            "score": 0.98
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.939
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "3 Boring Businesses Making Crores in India | No App, No Funding. Jo log India me sabse zyada paisa kama rahe hain, zaroori nahi ki unke paas koi app h",
+          "url": "https://youtube.com/watch?v=bujqQNk1rXw",
+          "platform": "youtube"
+        },
+        {
+          "text": "How to Pitch Investors Like a Pro #startup #investing #shorts. Want to raise funding for your startup? In this powerful YouTube Shorts episode, Advoca",
+          "url": "https://youtube.com/watch?v=CoLCq-HHsao",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why Funding Alone Isn\u2019t Enough | Ola. Most startup founders focus on growth, funding, and competition.\n\nBut one metric decides whether a startup survi",
+          "url": "https://youtube.com/watch?v=lk75B3ctmxg",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "saas",
+      "mention_count": 7,
+      "engagement_score": 33.3,
+      "sentiment": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.804
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Why Lowering Your SaaS Price Is An AWFUL Idea. One pricing decision turned a $683 customer into a $68 customer. Same product. Same founder. Ten times ",
+          "url": "https://youtube.com/watch?v=31b_nmLf7EQ",
+          "platform": "youtube"
+        },
+        {
+          "text": "This AI Built a SaaS Business with User Auth, Admin Panel & Database. I Built a Complete SaaS Business with Google AI Studio (100% Free)\n\nIn this step",
+          "url": "https://youtube.com/watch?v=asZxADIfc5E",
+          "platform": "youtube"
+        },
+        {
+          "text": "I built a $10K/Month SaaS With Claude AI in 4 Days.... Automate your business with AI -  https://autoploy.us/\nThe EXACT Playbook I Used to Build This ",
+          "url": "https://youtube.com/watch?v=AaDBqaHy1nk",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "amazon",
+      "mention_count": 7,
+      "engagement_score": 32.39,
+      "sentiment": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 0.717
+          },
+          {
+            "label": "negative",
+            "score": 0.91
+          },
+          {
+            "label": "positive",
+            "score": 0.827
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.973
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Amazon Work From Home Jobs 2026 | Freshers Can Apply | Customer Service Hiring. Amazon India has started hiring for Customer Service Associate and Tec",
+          "url": "https://youtube.com/watch?v=Hkl_RkzY3T0",
+          "platform": "youtube"
+        },
+        {
+          "text": "Replying to @siennaajohnson amazon l1nks in my b1o! #amazonfinds #wfh #remotework. Get ready to dive into the life of a busy lifestyle creator as I sh",
+          "url": "https://youtube.com/watch?v=afiq1xfy_1w",
+          "platform": "youtube"
+        },
+        {
+          "text": "Amazon Night Shift Explained | The Truth Nobody Tells You - Extra Pay, Shift Timings & My Experience. In this video, I have discussed everything relat",
+          "url": "https://youtube.com/watch?v=EAxyNzhamuc",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "businesses",
+      "mention_count": 3,
+      "engagement_score": 26.26,
+      "sentiment": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "3 Boring Businesses Making Crores in India | No App, No Funding. Jo log India me sabse zyada paisa kama rahe hain, zaroori nahi ki unke paas koi app h",
+          "url": "https://youtube.com/watch?v=bujqQNk1rXw",
+          "platform": "youtube"
+        },
+        {
+          "text": "Stop Scrolling \u2014 3 FREE AI Tools That Get Small Businesses to Pay You!. The side hustle you have been looking for is sitting right in front of you and",
+          "url": "https://youtube.com/watch?v=LKiyOcRKK0k",
+          "platform": "youtube"
+        },
+        {
+          "text": "10 AI Tools Every Business Needs in 2026  Save Time, Increase Sales & Automate Work.. Discover the 10 best AI tools that can help businesses automate ",
+          "url": "https://youtube.com/watch?v=UGhiHfvfDKk",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "money",
+      "mention_count": 6,
+      "engagement_score": 25.64,
+      "sentiment": {
+        "positive": 2,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.969
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.97
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Can We Make Money From India's Got Latent ? || Op Grow Ai. \ud83d\udd25 How To Make Money From India's Got Latent Using AI (Step By Step Guide) \ud83d\udd25\n\nIn this video,",
+          "url": "https://youtube.com/watch?v=RqKdG43jCAk",
+          "platform": "youtube"
+        },
+        {
+          "text": "Worlds STRANGEST IPO!! #viral #shorts #viralshorts #ipo #business. Most founders think raising money means winning.\n\nNSE just proved the opposite.\n\nIn",
+          "url": "https://youtube.com/watch?v=fNiE8KynLzQ",
+          "platform": "youtube"
+        },
+        {
+          "text": "Use your brain to get money, not time. #entrepreneur #business @davidfilterbuy. Stop trading your hours for a low salary. Rent your brain instead.\n\nSm",
+          "url": "https://youtube.com/watch?v=H3DeCukKgbw",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "app",
+      "mention_count": 2,
+      "engagement_score": 25.18,
+      "sentiment": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "3 Boring Businesses Making Crores in India | No App, No Funding. Jo log India me sabse zyada paisa kama rahe hain, zaroori nahi ki unke paas koi app h",
+          "url": "https://youtube.com/watch?v=bujqQNk1rXw",
+          "platform": "youtube"
+        },
+        {
+          "text": "50+ AI  Tools Offers (Website+ Admin panel + Android App) | android app source codes. 50+ AI  Tools Project : https://wa.me/917008587008?text=AI%20too",
+          "url": "https://youtube.com/watch?v=n-8qJohwFME",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "online",
+      "mention_count": 4,
+      "engagement_score": 24.25,
+      "sentiment": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.934
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.976
+          }
+        ],
+        "positive_pct": 25.0,
+        "negative_pct": 75.0
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\ud83d\udd25200+ FREE Online Internships | FREE Certificate | No Eligibility | Work From Home Internships. \ud83d\udd25 100% FREE Online Internships | Get Certificate in 1 ",
+          "url": "https://youtube.com/watch?v=r5jXTnOSL10",
+          "platform": "youtube"
+        },
+        {
+          "text": "Can We Make Money From India's Got Latent ? || Op Grow Ai. \ud83d\udd25 How To Make Money From India's Got Latent Using AI (Step By Step Guide) \ud83d\udd25\n\nIn this video,",
+          "url": "https://youtube.com/watch?v=RqKdG43jCAk",
+          "platform": "youtube"
+        },
+        {
+          "text": "I Used AI to Build an Online Income System | Legendries AI Launchpad. Most people are still using AI for random prompts.\n\nBut AI can do much more than",
+          "url": "https://youtube.com/watch?v=s6-dJCen4Cc",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "content",
+      "mention_count": 7,
+      "engagement_score": 22.86,
+      "sentiment": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.852
+          },
+          {
+            "label": "positive",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "A Better Way to Plan LinkedIn Content. Too many good ideas to keep track of? Bloomberry\u2019s Plan tab helps B2B teams capture content ideas, organize upc",
+          "url": "https://youtube.com/watch?v=OHBUHTd8w5w",
+          "platform": "youtube"
+        },
+        {
+          "text": "Day 13: Content Creation with Canva, Video Tools & AI | EzyIntern UGC Internship Program. Welcome to Day 13 of the EzyIntern UGC Internship Program in",
+          "url": "https://youtube.com/watch?v=jK_Wm03KC6g",
+          "platform": "youtube"
+        },
+        {
+          "text": "work from home 0 investment meesho reviews content create cheyandi #meeshocreatorclub #workfromhome. ",
+          "url": "https://youtube.com/watch?v=Kylx_Olsk-A",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "startups",
+      "mention_count": 8,
+      "engagement_score": 22.53,
+      "sentiment": {
+        "positive": 3,
+        "negative": 5,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.959
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.676
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.962
+          },
+          {
+            "label": "negative",
+            "score": 0.969
+          },
+          {
+            "label": "positive",
+            "score": 0.939
+          }
+        ],
+        "positive_pct": 37.5,
+        "negative_pct": 62.5
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\ud83d\ude802,500 \u2192 150,000+ Startups\ud83d\ude33| India\u2019s Startup Revolution \ud83c\uddee\ud83c\uddf3 #Modi #StartupIndia #Shorts #newindia. \ud83d\ude80 2,500 \u2192 150,000+ Startups \ud83d\ude33 | India\u2019s Startup Revo",
+          "url": "https://youtube.com/watch?v=TrTPR75uYuk",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\ude80 Day 5: Why Indians Choose Modi Ji #startup \ud83d\ude80 2,500 \u2192 150,000+ Startup #startupindia. \ud83d\ude80 2,500 \u2192 150,000+ Startups \ud83d\ude33 | India\u2019s Startup Revolution \ud83c\uddee\ud83c\uddf3 #",
+          "url": "https://youtube.com/watch?v=HmiZStygs74",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why you need FUNDING for Startups \ud83e\udd2f. Why is it important to get funded for startups \ud83e\udd2f Subscribe to @thetrailblazerspod on YouTube for the full episode",
+          "url": "https://youtube.com/watch?v=F6uRjJAzrP0",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "india",
+      "mention_count": 4,
+      "engagement_score": 21.39,
+      "sentiment": {
+        "positive": 3,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.959
+          },
+          {
+            "label": "positive",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.978
+          }
+        ],
+        "positive_pct": 75.0,
+        "negative_pct": 25.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Can We Make Money From India's Got Latent ? || Op Grow Ai. \ud83d\udd25 How To Make Money From India's Got Latent Using AI (Step By Step Guide) \ud83d\udd25\n\nIn this video,",
+          "url": "https://youtube.com/watch?v=RqKdG43jCAk",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\ude802,500 \u2192 150,000+ Startups\ud83d\ude33| India\u2019s Startup Revolution \ud83c\uddee\ud83c\uddf3 #Modi #StartupIndia #Shorts #newindia. \ud83d\ude80 2,500 \u2192 150,000+ Startups \ud83d\ude33 | India\u2019s Startup Revo",
+          "url": "https://youtube.com/watch?v=TrTPR75uYuk",
+          "platform": "youtube"
+        },
+        {
+          "text": "\u0936\u093e\u092f\u0930\u0940 \u0938\u0947 \u0936\u0941\u0930\u0942 \u0939\u0941\u0908 'Kavi' \u0915\u0940 Pitch! | Shark Tank India S4 | Combined Entrepreneurs. Shop the best of Shark Tank products now: https://tinyurl.com/Shark",
+          "url": "https://youtube.com/watch?v=pvnLV2i680E",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "crm",
+      "mention_count": 3,
+      "engagement_score": 20.96,
+      "sentiment": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.879
+          },
+          {
+            "label": "negative",
+            "score": 0.879
+          },
+          {
+            "label": "negative",
+            "score": 0.879
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044f CRM \u0432 \u043e\u0442\u0434\u0435\u043b\u0435 \u043f\u0440\u043e\u0434\u0430\u0436.. \u0412\u0441\u0435 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u2014 \u0441 \u0441\u0430\u0439\u0442\u0430, \u043f\u043e\u0447\u0442\u044b, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u043e\u0432 \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u2014 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u0442\u044c \u0432 \u043e\u0434\u043d\u0443 CRM.\n\n\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u044b \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0441\u043e\u043f",
+          "url": "https://youtube.com/watch?v=q360u-fkaIU",
+          "platform": "youtube"
+        },
+        {
+          "text": "\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044f CRM \u0432 \u043e\u0442\u0434\u0435\u043b\u0435 \u043f\u0440\u043e\u0434\u0430\u0436.. \u0412\u0441\u0435 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u2014 \u0441 \u0441\u0430\u0439\u0442\u0430, \u043f\u043e\u0447\u0442\u044b, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u043e\u0432 \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u2014 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u0442\u044c \u0432 \u043e\u0434\u043d\u0443 CRM.\n\n\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u044b \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0441\u043e\u043f",
+          "url": "https://youtube.com/watch?v=Lxe4PSM-COs",
+          "platform": "youtube"
+        },
+        {
+          "text": "\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044f CRM \u0432 \u043e\u0442\u0434\u0435\u043b\u0435 \u043f\u0440\u043e\u0434\u0430\u0436.. \u0412\u0441\u0435 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u2014 \u0441 \u0441\u0430\u0439\u0442\u0430, \u043f\u043e\u0447\u0442\u044b, \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u043e\u0432 \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u2014 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u0442\u044c \u0432 \u043e\u0434\u043d\u0443 CRM.\n\n\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u044b \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0441\u043e\u043f",
+          "url": "https://youtube.com/watch?v=fQtZgkNxOKE",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "zema",
+      "mention_count": 2,
+      "engagement_score": 19.7,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar #shorts. Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Ne",
+          "url": "https://youtube.com/watch?v=VqpmfL8tiCU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar: \u2018Ia ser uma beleza\u2019. Zema cita Janja ao criticar Lula por piada sobre \u2018home ",
+          "url": "https://youtube.com/watch?v=ian88-4njPs",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "cita",
+      "mention_count": 2,
+      "engagement_score": 19.7,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar #shorts. Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Ne",
+          "url": "https://youtube.com/watch?v=VqpmfL8tiCU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar: \u2018Ia ser uma beleza\u2019. Zema cita Janja ao criticar Lula por piada sobre \u2018home ",
+          "url": "https://youtube.com/watch?v=ian88-4njPs",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "janja",
+      "mention_count": 2,
+      "engagement_score": 19.7,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar #shorts. Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Ne",
+          "url": "https://youtube.com/watch?v=VqpmfL8tiCU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar: \u2018Ia ser uma beleza\u2019. Zema cita Janja ao criticar Lula por piada sobre \u2018home ",
+          "url": "https://youtube.com/watch?v=ian88-4njPs",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "criticar",
+      "mention_count": 2,
+      "engagement_score": 19.7,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar #shorts. Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Ne",
+          "url": "https://youtube.com/watch?v=VqpmfL8tiCU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar: \u2018Ia ser uma beleza\u2019. Zema cita Janja ao criticar Lula por piada sobre \u2018home ",
+          "url": "https://youtube.com/watch?v=ian88-4njPs",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "lula",
+      "mention_count": 2,
+      "engagement_score": 19.7,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar #shorts. Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Ne",
+          "url": "https://youtube.com/watch?v=VqpmfL8tiCU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Zema cita Janja ao criticar Lula por piada sobre \u2018home office\u2019 de Neymar: \u2018Ia ser uma beleza\u2019. Zema cita Janja ao criticar Lula por piada sobre \u2018home ",
+          "url": "https://youtube.com/watch?v=ian88-4njPs",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "productivity",
+      "mention_count": 10,
+      "engagement_score": 19.27,
+      "sentiment": {
+        "positive": 5,
+        "negative": 5,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.702
+          },
+          {
+            "label": "positive",
+            "score": 0.655
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.919
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.827
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\ud83d\udcc5 Meeting scheduled. Productivity cancelled. #Office_baadhalu #software. ",
+          "url": "https://youtube.com/watch?v=qoGgGUUGnK8",
+          "platform": "youtube"
+        },
+        {
+          "text": "Redefining Enterprise Productivity in Microsoft's Agent-First Shift. \ud83d\udd2e The Rise of the Agent-Operated Enterprise: Navigating the Tectonic Shift to Aut",
+          "url": "https://youtube.com/watch?v=sxWaet976wQ",
+          "platform": "youtube"
+        },
+        {
+          "text": "Neo x PCF Formwork \u2013 Productivity Tracking Testimonial. Steve Sarris, Managing Director at PCF Formwork, shares how Neo Productivity Tracking has chan",
+          "url": "https://youtube.com/watch?v=1CeexDYNhaM",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "pricing",
+      "mention_count": 6,
+      "engagement_score": 18.85,
+      "sentiment": {
+        "positive": 3,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.952
+          },
+          {
+            "label": "negative",
+            "score": 0.984
+          },
+          {
+            "label": "positive",
+            "score": 0.991
+          },
+          {
+            "label": "negative",
+            "score": 0.944
+          },
+          {
+            "label": "positive",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The Pricing Trick That Makes You Pay More | Sahil Khanna. Most people think pricing is all about cost, margin, and competitor rates. But smart compani",
+          "url": "https://youtube.com/watch?v=bbDapugOY5I",
+          "platform": "youtube"
+        },
+        {
+          "text": "Buy, hold or sell to HubSpot's pricing strategy?. HubSpot has started experimenting with credit-based AI pricing and they have a strong history of ite",
+          "url": "https://youtube.com/watch?v=ZdmXBImnPr0",
+          "platform": "youtube"
+        },
+        {
+          "text": "Free Pricing Table Generator with Live Preview & Copy Code. Create stunning pricing tables in seconds with our Pricing Table Generator with Live Previ",
+          "url": "https://youtube.com/watch?v=0zg1ihQIqak",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "que",
+      "mention_count": 2,
+      "engagement_score": 18.23,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Minha rotina de \"trabalho duro\" em casa \ud83d\ude02  #homeoffice. Quem nunca fingiu que a internet caiu ou que estava 'focado' em um projeto enquanto na verdade",
+          "url": "https://youtube.com/watch?v=jyP2eH0vS7Q",
+          "platform": "youtube"
+        },
+        {
+          "text": "QWEN AI La IA GRATUITA que SORPRENDE a todos \ud83e\udd2f. La inteligencia artificial ya no es una herramienta del futuro. Est\u00e1 transformando la forma en que cre",
+          "url": "https://youtube.com/watch?v=AM0V42hZsKo",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "website",
+      "mention_count": 5,
+      "engagement_score": 17.99,
+      "sentiment": {
+        "positive": 1,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "positive",
+            "score": 0.862
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "negative",
+            "score": 0.881
+          },
+          {
+            "label": "negative",
+            "score": 0.98
+          }
+        ],
+        "positive_pct": 20.0,
+        "negative_pct": 80.0
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Amazon \u091c\u0948\u0938\u0947 \u0939\u0940 \u0939\u0948 \u092f\u0947 AI Website! 29,000+ AI Tools \u090f\u0915 \u091c\u0917\u0939 \u2014 FREE \u092e\u0947\u0902 \ud83e\udd2f\ud83d\ude80 #freeaitools #digitalindia. Amazon \u091c\u0948\u0938\u0947 \u0939\u0940 \u0939\u0948 \u092f\u0947 AI Website! 29,000+ AI Tools \u090f",
+          "url": "https://youtube.com/watch?v=vyPBzRXUNUA",
+          "platform": "youtube"
+        },
+        {
+          "text": "It\u2019s starting  wooo \ud83d\ude05. sales, \nwebsite sales, \nselling websites, \nlocal business website sales, \nwebsite design services, \nweb development services, \n",
+          "url": "https://youtube.com/watch?v=XOEiv5kCThM",
+          "platform": "youtube"
+        },
+        {
+          "text": "Coding \u0906\u0924\u0940 \u0939\u0948? \u0915\u094b\u0908 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902! Canva AI \u0938\u0947 \u0935\u0947\u092c\u0938\u093e\u0907\u091f \u092c\u0928\u093e\u090f\u0902 \u091a\u0941\u091f\u0915\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \ud83e\udd2f. \ud83d\ude80 Canva AI se sirf 10 minute me Professional Website kaise banaye?\n\nKya aap bin",
+          "url": "https://youtube.com/watch?v=Ph33WRGx6qg",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "applications",
+      "mention_count": 2,
+      "engagement_score": 17.37,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.833
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "github",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "BuilderIO/agent-native: A framework for building agent-native applications.",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "platform": "github"
+        },
+        {
+          "text": "CLEP Information Systems office applications. Stop failing CLEP Information Systems office applications questions by memorizing menu names when the 20",
+          "url": "https://youtube.com/watch?v=paw5R8Q4Srg",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    }
+  ],
+  "platform_native_trending": {
+    "youtube": [
+      {
+        "title": "CG5 - Not Supposed To Love Me [Ode to JAX] (The Amazing Digital Circus Song Animation)",
+        "channel": "CG5",
+        "views": "940301",
+        "url": "https://youtube.com/watch?v=txrYKA8Zg4g"
+      },
+      {
+        "title": "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
+        "channel": "GameofThrones",
+        "views": "171124",
+        "url": "https://youtube.com/watch?v=xZUavocHU2g"
+      },
+      {
+        "title": "INFINITE ADDICTION = INFINITE MONEY | Scritchy Scratchy",
+        "channel": "Markiplier",
+        "views": "817170",
+        "url": "https://youtube.com/watch?v=OjOTclvjPw0"
+      },
+      {
+        "title": "Que Vuelva",
+        "channel": "Alex Bueno - Topic",
+        "views": "540162",
+        "url": "https://youtube.com/watch?v=KKjOy-LAT-E"
+      },
+      {
+        "title": "THROUGH THE CRACKS // Summit Official Map Reveal Trailer - VALORANT",
+        "channel": "VALORANT",
+        "views": "466732",
+        "url": "https://youtube.com/watch?v=3kMr6JCbppI"
+      },
+      {
+        "title": "Being a Burglin' Gnome is harder than it looks...",
+        "channel": "SMii7Yplus",
+        "views": "874054",
+        "url": "https://youtube.com/watch?v=XyJ8jGjogic"
+      },
+      {
+        "title": "Vicente Fern\u00e1ndez - Mi Viejo (LETRA)",
+        "channel": "RadioReggaeton",
+        "views": "187142",
+        "url": "https://youtube.com/watch?v=9uKnzS48Oi0"
+      },
+      {
+        "title": "The Mimic: Rage - Official Game Trailer",
+        "channel": "CTStudios",
+        "views": "60265",
+        "url": "https://youtube.com/watch?v=YNBdSmGxbvE"
+      },
+      {
+        "title": "GRIEF 97% \ud83d\udd34 75%+ x30 \ud83d\udd34 STREAM 365",
+        "channel": "Doggie",
+        "views": "707651",
+        "url": "https://youtube.com/watch?v=ueb59rJDF8g"
+      },
+      {
+        "title": "Lewa",
+        "channel": "Release - Topic",
+        "views": "90994",
+        "url": "https://youtube.com/watch?v=NYT5zzex7yo"
+      },
+      {
+        "title": "Spider-Man Brand New Day Trailer: New Powers & Abilities Breakdown",
+        "channel": "Emergency Awesome",
+        "views": "113478",
+        "url": "https://youtube.com/watch?v=lbr8yc1_ljQ"
+      },
+      {
+        "title": "roblox best gameplay",
+        "channel": "StanRP",
+        "views": "469845",
+        "url": "https://youtube.com/watch?v=lXWBRLZoyEI"
+      },
+      {
+        "title": "LOW FADE (Music Video) KARAN AUJLA",
+        "channel": "Karan Aujla",
+        "views": "1975767",
+        "url": "https://youtube.com/watch?v=3j7bhOvW6jw"
+      },
+      {
+        "title": "House of the Dragon: S3 | Ep. 2 Promo Trailer | 4K HBO Max",
+        "channel": "AD_edits",
+        "views": "38748",
+        "url": "https://youtube.com/watch?v=ny8zeqDaLlI"
+      },
+      {
+        "title": "MECCHA CHAMELEON CUSTOM MAPS ARE HILARIOUS",
+        "channel": "Grizzy",
+        "views": "287322",
+        "url": "https://youtube.com/watch?v=HorICRtODpY"
+      },
+      {
+        "title": "Sean Rii, Wally Pazzi - No Other Love (Official Music Video)",
+        "channel": "SeanRiiVEVO",
+        "views": "43029",
+        "url": "https://youtube.com/watch?v=rxyNUVQQOz8"
+      },
+      {
+        "title": "Let\u2019s Make Sense of JEAN GREY In A Spider-Man Movie | Sneak Peek",
+        "channel": "New Rockstars",
+        "views": "69536",
+        "url": "https://youtube.com/watch?v=MzunXwk8t10"
+      },
+      {
+        "title": "We\u2019re Trying New Spots (Meccha Chameleon)",
+        "channel": "CaseOh",
+        "views": "340382",
+        "url": "https://youtube.com/watch?v=F8SKbLtJhUU"
+      },
+      {
+        "title": "INSANE (Official Music Video) - Black Gryph0n & Baasik",
+        "channel": "Black Gryph0n",
+        "views": "2678806",
+        "url": "https://youtube.com/watch?v=kofuSo_dmvs"
+      },
+      {
+        "title": "FROM season 4 episode 10 trailer",
+        "channel": "Teflon Tv",
+        "views": "63686",
+        "url": "https://youtube.com/watch?v=cEUhM2uE-Wg"
+      },
+      {
+        "title": "Meccha Chameleon spots that make you say \"That Pain't Me\"",
+        "channel": "SMii7Y",
+        "views": "3685647",
+        "url": "https://youtube.com/watch?v=Z8U_0y4ShW0"
+      },
+      {
+        "title": "Chris Brown - Deuces (Lyrics) Ft. Tyga, Kevin McCall",
+        "channel": "S&R",
+        "views": "104270",
+        "url": "https://youtube.com/watch?v=Cy7W6D0A5QM"
+      },
+      {
+        "title": "\u300e\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \u523a\u5ba2\u7bc7\u300f\u30c6\u30a3\u30b6\u30fcPV\u2461\uff0fChainsaw Man \u2013  Assassins Arc Official Trailer 2",
+        "channel": "MAPPA CHANNEL",
+        "views": "5043424",
+        "url": "https://youtube.com/watch?v=s8cP1Vt5US8"
+      },
+      {
+        "title": "If You Build It, I'll Buy It!",
+        "channel": "MrBeast Gaming",
+        "views": "16931356",
+        "url": "https://youtube.com/watch?v=wZW016nna48"
+      },
+      {
+        "title": "Jnr Vigi, Liz Vamarasi - Lewa (Official Audio)",
+        "channel": "VT1S",
+        "views": "138375",
+        "url": "https://youtube.com/watch?v=mTN5DTJEFEs"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "Deno Desktop",
+        "score": 337,
+        "comments": 140,
+        "url": "https://docs.deno.com/runtime/desktop/"
+      },
+      {
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "score": 68,
+        "comments": 36,
+        "url": "https://github.com/openai/codex/issues/28224"
+      },
+      {
+        "title": "Help I accidentally a wigglegram",
+        "score": 225,
+        "comments": 39,
+        "url": "https://lmao.center/blog/wiggle-accidents/"
+      },
+      {
+        "title": "GLM 5.2 vs. Opus",
+        "score": 117,
+        "comments": 83,
+        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/"
+      },
+      {
+        "title": "Did my old job only exist because of fraud?",
+        "score": 545,
+        "comments": 233,
+        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"
+      },
+      {
+        "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+        "score": 372,
+        "comments": 125,
+        "url": "https://apertvs.ai/"
+      },
+      {
+        "title": "Munich 1991: The Roots of the Current AI Boom",
+        "score": 48,
+        "comments": 10,
+        "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
+      },
+      {
+        "title": "There is minimal downside to switching to open models",
+        "score": 223,
+        "comments": 177,
+        "url": "https://www.marble.onl/posts/cancel_claude.html"
+      },
+      {
+        "title": "Memory Safe Inline Assembly",
+        "score": 109,
+        "comments": 21,
+        "url": "https://fil-c.org/inlineasm"
+      },
+      {
+        "title": "Lisp in the Rust Type System",
+        "score": 61,
+        "comments": 0,
+        "url": "https://github.com/playX18/lisp-in-types/"
+      },
+      {
+        "title": "Everything is logarithms",
+        "score": 223,
+        "comments": 46,
+        "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html"
+      },
+      {
+        "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+        "score": 129,
+        "comments": 30,
+        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions"
+      },
+      {
+        "title": "Identity verification on Claude",
+        "score": 745,
+        "comments": 619,
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude"
+      },
+      {
+        "title": "Sakana Fugu",
+        "score": 121,
+        "comments": 73,
+        "url": "https://sakana.ai/fugu/"
+      },
+      {
+        "title": "JSON-LD explained for personal websites",
+        "score": 215,
+        "comments": 64,
+        "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/"
+      },
+      {
+        "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+        "score": 55,
+        "comments": 8,
+        "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736"
+      },
+      {
+        "title": "How I play video games with spinal muscular atrophy",
+        "score": 107,
+        "comments": 15,
+        "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/"
+      },
+      {
+        "title": "Japanese verb conjugation the simple hard way",
+        "score": 98,
+        "comments": 124,
+        "url": "https://underreacted.leaflet.pub/3mmevu6woys27"
+      },
+      {
+        "title": "My 1992 view of the problems of computer programming in 1992",
+        "score": 12,
+        "comments": 3,
+        "url": "https://blog.plover.com/prog/fortran-i.html"
+      },
+      {
+        "title": "PowerFox Browser",
+        "score": 130,
+        "comments": 33,
+        "url": "https://powerfox.jazzzny.me/"
+      },
+      {
+        "title": "1983 Northern Telecom Commodore Phone",
+        "score": 53,
+        "comments": 16,
+        "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/"
+      },
+      {
+        "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
+        "score": 142,
+        "comments": 46,
+        "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2"
+      },
+      {
+        "title": "Show HN: Teach your kids perfect pitch",
+        "score": 135,
+        "comments": 83,
+        "url": "https://github.com/paytonjjones/bsharp"
+      },
+      {
+        "title": "Rent collections are down in New York",
+        "score": 85,
+        "comments": 335,
+        "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982"
+      },
+      {
+        "title": "Show HN: Criterion Closet as a website \u2013 pull any of 1,247 films off the shelf",
+        "score": 106,
+        "comments": 28,
+        "url": "https://the-criterion-closet.vercel.app"
+      }
+    ],
+    "devto": [
+      {
+        "title": "Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.",
+        "author": "dimitrovk",
+        "reactions": 9,
+        "url": "https://dev.to/dimitrovk/some-friends-wanted-to-see-how-i-use-digitalocean-so-i-built-them-the-smallest-real-app-i-could-238l"
+      },
+      {
+        "title": "15 AI Stories Later, Some Honest Words",
+        "author": "xulingfeng",
+        "reactions": 27,
+        "url": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j"
+      },
+      {
+        "title": "Memory Drift: How I Gamified LLM Context Decay in Next.js",
+        "author": "pvishalkeerthan",
+        "reactions": 2,
+        "url": "https://dev.to/pvishalkeerthan/memory-drift-how-i-gamified-llm-context-decay-in-nextjs-4ilf"
+      },
+      {
+        "title": "What Is an Array, Really? I'm Writing a Book to Find Out",
+        "author": "m__mdy__m",
+        "reactions": 6,
+        "url": "https://dev.to/m__mdy__m/what-is-an-array-really-im-writing-a-book-to-find-out-pf1"
+      },
+      {
+        "title": "Less Noise, More Labs: How I Actually Learned RF Hacking This Year",
+        "author": "numbpill3d",
+        "reactions": 1,
+        "url": "https://dev.to/numbpill3d/less-noise-more-labs-how-i-actually-learned-rf-hacking-this-year-4e15"
+      },
+      {
+        "title": "Building a 3D Game in the Browser Humbled Me. Here's Everything That Fought Back.",
+        "author": "arya_koste_5845807df94776",
+        "reactions": 3,
+        "url": "https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg"
+      },
+      {
+        "title": "Receipts Are Not Outcomes: What Happened When I Pointed My AI Gate at Trading",
+        "author": "kenielzep97",
+        "reactions": 5,
+        "url": "https://dev.to/kenielzep97/receipts-are-not-outcomes-what-happened-when-i-pointed-my-ai-gate-at-trading-3409"
+      },
+      {
+        "title": "Dawn or Eclipse \u2014 a code-breaking ode to Turing you can't outsource to the machine",
+        "author": "tobethekey",
+        "reactions": 2,
+        "url": "https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a"
+      },
+      {
+        "title": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+        "author": "sholajegede",
+        "reactions": 6,
+        "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9"
+      },
+      {
+        "title": "Building Margin: A Privacy-First News Reader Inside Chrome's Side Panel",
+        "author": "mohanvenkatakrishnan",
+        "reactions": 6,
+        "url": "https://dev.to/mohanvenkatakrishnan/building-margin-a-privacy-first-news-reader-inside-chromes-side-panel-32c"
+      }
+    ],
+    "github": [
+      {
+        "name": "palmier-io/palmier-pro",
+        "description": "macOS video editor built for AI",
+        "url": "https://github.com/palmier-io/palmier-pro"
+      },
+      {
+        "name": "calesthio/OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "name": "tursodatabase/turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "url": "https://github.com/tursodatabase/turso"
+      },
+      {
+        "name": "penpot/penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "url": "https://github.com/penpot/penpot"
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      {
+        "name": "koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      {
+        "name": "bytedance/deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "url": "https://github.com/bytedance/deer-flow"
+      },
+      {
+        "name": "DeusData/codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+      },
+      {
+        "name": "mukul975/Anthropic-Cybersecurity-Skills",
+        "description": "754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 26 security domains \u00b7 Apache 2.0",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+      },
+      {
+        "name": "mikumifa/biliTickerBuy",
+        "description": "b\u7ad9\u4f1a\u5458\u8d2d\u8d2d\u7968\u8f85\u52a9\u5de5\u5177",
+        "url": "https://github.com/mikumifa/biliTickerBuy"
+      }
+    ]
+  },
+  "summary": {
+    "top_rising_topics": [
+      {
+        "topic": "claude",
+        "mention_count": 5,
+        "engagement_score": 1626.33,
+        "sentiment": {
+          "positive": 3,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.997
+            },
+            {
+              "label": "positive",
+              "score": 0.754
+            },
+            {
+              "label": "positive",
+              "score": 0.875
+            },
+            {
+              "label": "negative",
+              "score": 0.985
+            },
+            {
+              "label": "positive",
+              "score": 0.992
+            }
+          ],
+          "positive_pct": 60.0,
+          "negative_pct": 40.0
+        },
+        "platforms": [
+          "github",
+          "hackernews",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "ruvnet/ruflo: \ud83c\udf0a The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversat",
+            "url": "https://github.com/ruvnet/ruflo",
+            "platform": "github"
+          },
+          {
+            "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+            "url": "https://github.com/coreyhaines31/marketingskills",
+            "platform": "github"
+          },
+          {
+            "text": "tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automati",
+            "url": "https://github.com/tradesdontlie/tradingview-mcp",
+            "platform": "github"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "use",
+        "mention_count": 3,
+        "engagement_score": 1136.52,
+        "sentiment": {
+          "positive": 1,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "positive",
+              "score": 0.827
+            },
+            {
+              "label": "negative",
+              "score": 0.991
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            }
+          ],
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        "platforms": [
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+            "url": "https://github.com/garrytan/gstack",
+            "platform": "github"
+          },
+          {
+            "text": "#ad use 8x social for marketing #brand #influenceragency #marketing #ugc #ceo #b2b #growth #shorts. ",
+            "url": "https://youtube.com/watch?v=Bq9rb3XxEh0",
+            "platform": "youtube"
+          },
+          {
+            "text": "How to Use Slack Bots to Enhance Productivity (Step By Step) (2026 Guide). How to Use Slack Bots to Enhance Productivity (Step By Step) (2026 Guide)\n\n",
+            "url": "https://youtube.com/watch?v=XF-HiYC5N2w",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "exact",
+        "mention_count": 2,
+        "engagement_score": 1128.19,
+        "sentiment": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.997
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            }
+          ],
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        "platforms": [
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+            "url": "https://github.com/garrytan/gstack",
+            "platform": "github"
+          },
+          {
+            "text": "I built a $10K/Month SaaS With Claude AI in 4 Days.... Automate your business with AI -  https://autoploy.us/\nThe EXACT Playbook I Used to Build This ",
+            "url": "https://youtube.com/watch?v=AaDBqaHy1nk",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "agent",
+        "mention_count": 2,
+        "engagement_score": 673.73,
+        "sentiment": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "positive",
+              "score": 0.992
+            }
+          ],
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        "platforms": [
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "ruvnet/ruflo: \ud83c\udf0a The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversat",
+            "url": "https://github.com/ruvnet/ruflo",
+            "platform": "github"
+          },
+          {
+            "text": "withastro/flue: The sandbox agent framework.",
+            "url": "https://github.com/withastro/flue",
+            "platform": "github"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "agents",
+        "mention_count": 11,
+        "engagement_score": 621.0,
+        "sentiment": {
+          "positive": 5,
+          "negative": 6,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "positive",
+              "score": 0.989
+            },
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "negative",
+              "score": 0.99
+            },
+            {
+              "label": "positive",
+              "score": 0.997
+            },
+            {
+              "label": "negative",
+              "score": 0.991
+            },
+            {
+              "label": "positive",
+              "score": 0.987
+            },
+            {
+              "label": "positive",
+              "score": 0.999
+            },
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "positive",
+              "score": 0.875
+            },
+            {
+              "label": "negative",
+              "score": 0.823
+            },
+            {
+              "label": "negative",
+              "score": 0.994
+            }
+          ],
+          "positive_pct": 45.5,
+          "negative_pct": 54.5
+        },
+        "platforms": [
+          "devto",
+          "github",
+          "hackernews",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+            "url": "https://github.com/coreyhaines31/marketingskills",
+            "platform": "github"
+          },
+          {
+            "text": "mukul975/Anthropic-Cybersecurity-Skills: 754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+            "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+            "platform": "github"
+          },
+          {
+            "text": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and ",
+            "url": "https://github.com/stablyai/orca",
+            "platform": "github"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "marketing",
+        "mention_count": 14,
+        "engagement_score": 394.46,
+        "sentiment": {
+          "positive": 6,
+          "negative": 8,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.997
+            },
+            {
+              "label": "positive",
+              "score": 0.998
+            },
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            },
+            {
+              "label": "negative",
+              "score": 0.993
+            },
+            {
+              "label": "negative",
+              "score": 0.985
+            },
+            {
+              "label": "positive",
+              "score": 0.99
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            },
+            {
+              "label": "negative",
+              "score": 0.977
+            },
+            {
+              "label": "positive",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.997
+            },
+            {
+              "label": "negative",
+              "score": 0.983
+            },
+            {
+              "label": "positive",
+              "score": 0.999
+            },
+            {
+              "label": "positive",
+              "score": 0.875
+            }
+          ],
+          "positive_pct": 42.9,
+          "negative_pct": 57.1
+        },
+        "platforms": [
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+            "url": "https://github.com/coreyhaines31/marketingskills",
+            "platform": "github"
+          },
+          {
+            "text": "I WISH Someone had told me About This CAREER Earlier \ud83d\udc40\ud83e\udd2f. If you're good at marketing, enjoy strategy, and love understanding customers, Product Market",
+            "url": "https://youtube.com/watch?v=4k_1cCKov7s",
+            "platform": "youtube"
+          },
+          {
+            "text": "Red Bull Business Marketing Stretege ? #shorts. Red Bull Business Marketing Stretege ? #shorts #business #marketing",
+            "url": "https://youtube.com/watch?v=8XiwLwRivkQ",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "framework",
+        "mention_count": 5,
+        "engagement_score": 383.91,
+        "sentiment": {
+          "positive": 1,
+          "negative": 4,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.997
+            },
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "negative",
+              "score": 0.833
+            },
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "positive",
+              "score": 1.0
+            }
+          ],
+          "positive_pct": 20.0,
+          "negative_pct": 80.0
+        },
+        "platforms": [
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "facebook/lexical: Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "url": "https://github.com/facebook/lexical",
+            "platform": "github"
+          },
+          {
+            "text": "THUDM/slime: slime is an LLM post-training framework for RL Scaling.",
+            "url": "https://github.com/THUDM/slime",
+            "platform": "github"
+          },
+          {
+            "text": "withastro/flue: The sandbox agent framework.",
+            "url": "https://github.com/withastro/flue",
+            "platform": "github"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "code",
+        "mention_count": 3,
+        "engagement_score": 350.18,
+        "sentiment": {
+          "positive": 1,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.984
+            },
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "positive",
+              "score": 0.875
+            }
+          ],
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        "platforms": [
+          "devto",
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+            "url": "https://github.com/coreyhaines31/marketingskills",
+            "platform": "github"
+          },
+          {
+            "text": "Free Pricing Table Generator with Live Preview & Copy Code. Create stunning pricing tables in seconds with our Pricing Table Generator with Live Previ",
+            "url": "https://youtube.com/watch?v=0zg1ihQIqak",
+            "platform": "youtube"
+          },
+          {
+            "text": "What happens to software when code becomes cheap? new thoughts",
+            "url": "https://dev.to/kemoo/what-happens-to-software-when-code-becomes-cheap-new-thoughts-4ga5",
+            "platform": "devto"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "text",
+        "mention_count": 2,
+        "engagement_score": 237.62,
+        "sentiment": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "positive",
+              "score": 0.581
+            },
+            {
+              "label": "positive",
+              "score": 1.0
+            }
+          ],
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        "platforms": [
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "facebook/lexical: Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "url": "https://github.com/facebook/lexical",
+            "platform": "github"
+          },
+          {
+            "text": "This AI Lives Inside Your Text Messages \ud83e\udd2f. What if your next AI assistant wasn't an app...\n\nbut a contact in your messages?\n\n\ud83d\ude80 Meet folk.\n\nAn AI frien",
+            "url": "https://youtube.com/watch?v=gYqqWan8bzw",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "video",
+        "mention_count": 9,
+        "engagement_score": 222.43,
+        "sentiment": {
+          "positive": 5,
+          "negative": 4,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.995
+            },
+            {
+              "label": "negative",
+              "score": 0.988
+            },
+            {
+              "label": "negative",
+              "score": 0.971
+            },
+            {
+              "label": "positive",
+              "score": 0.997
+            },
+            {
+              "label": "negative",
+              "score": 0.972
+            },
+            {
+              "label": "positive",
+              "score": 0.919
+            },
+            {
+              "label": "positive",
+              "score": 0.996
+            },
+            {
+              "label": "positive",
+              "score": 0.973
+            }
+          ],
+          "positive_pct": 55.6,
+          "negative_pct": 44.4
+        },
+        "platforms": [
+          "github",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "platform": "github"
+          },
+          {
+            "text": "Healthy habits should be non-negotiable!. \u2764\ufe0f sponsor this channel: https://nunomaduro.com/sponsorships \ud83d\ude4c\ud83c\udffb this video was made possible by:\n\ud83d\udc30 coderabbi",
+            "url": "https://youtube.com/watch?v=AghQaKxPF0A",
+            "platform": "youtube"
+          },
+          {
+            "text": "Check Out Canva's Hidden AI Video Tools Nobody Is Talking About - Yet!. Check Out Canva's Hidden AI Video Tools Nobody Is Talking About - Yet!\nWant to",
+            "url": "https://youtube.com/watch?v=0UXpJq81FNY",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      }
+    ],
+    "most_engaging_topic": {
+      "topic": "claude",
+      "mention_count": 5,
+      "engagement_score": 1626.33,
+      "sentiment": {
+        "positive": 3,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.754
+          },
+          {
+            "label": "positive",
+            "score": 0.875
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 60.0,
+        "negative_pct": 40.0
+      },
+      "platforms": [
+        "github",
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "ruvnet/ruflo: \ud83c\udf0a The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversat",
+          "url": "https://github.com/ruvnet/ruflo",
+          "platform": "github"
+        },
+        {
+          "text": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "platform": "github"
+        },
+        {
+          "text": "tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automati",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "platform": "github"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    "sentiment_overview": {
+      "overall": "negative",
+      "positive_pct": 40.2
+    }
+  }
+}
