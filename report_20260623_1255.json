@@ -1,0 +1,4300 @@
+{
+  "generated_at": "2026-06-23T07:25:59.089165",
+  "keywords_searched": [
+    "AI business tools",
+    "SaaS pricing",
+    "startup funding",
+    "remote work",
+    "productivity software",
+    "B2B marketing"
+  ],
+  "total_posts_analyzed": 297,
+  "trending_topics": [
+    {
+      "topic": "manager",
+      "mention_count": 2,
+      "engagement_score": 2272.88,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.933
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+          "url": "https://github.com/garrytan/gstack",
+          "platform": "github"
+        },
+        {
+          "text": "SaaS Operations Manager. A SaaS Operations Manager powered by Ask AI helps agency owners manage SaaS plans, pricing, features, workflows, and account ",
+          "url": "https://youtube.com/watch?v=sKUpfHr1RMg",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "use",
+      "mention_count": 2,
+      "engagement_score": 1137.49,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+          "url": "https://github.com/garrytan/gstack",
+          "platform": "github"
+        },
+        {
+          "text": "Stop Using Google for Research \u2014 Use THESE 5 AI Tools #shorts #viralai #aitools #geminiai. 2 hours on Google and still only half an answer? \n\n\ud83d\ude24 You're",
+          "url": "https://youtube.com/watch?v=3TgsmGY0D8o",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "help",
+      "mention_count": 2,
+      "engagement_score": 737.64,
+      "sentiment": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.993
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, ",
+          "url": "https://github.com/bytedance/deer-flow",
+          "platform": "github"
+        },
+        {
+          "text": "How to start an app without AI  #tech #dev #Ai #business #technology. How to start an app without AI  #tech #dev #Ai #business #technology \n\nlike, com",
+          "url": "https://youtube.com/watch?v=5oumXyDnJMA",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "cli",
+      "mention_count": 2,
+      "engagement_score": 383.39,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.868
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "hackernews",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "mukul975/Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "platform": "github"
+        },
+        {
+          "text": "Rlwrap your CLI tools, dammit",
+          "url": "https://github.com/hanslub42/rlwrap",
+          "platform": "hackernews"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "video",
+      "mention_count": 9,
+      "engagement_score": 297.4,
+      "sentiment": {
+        "positive": 6,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.82
+          },
+          {
+            "label": "positive",
+            "score": 0.977
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.664
+          },
+          {
+            "label": "positive",
+            "score": 0.809
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 66.7,
+        "negative_pct": 33.3
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "How To Run An Entire Agency With Skywork 3.0 AI. #AI #Skywork #AIAgents #Productivity #ArtificialIntelligence\n\nTry Skywork 3.0: https://skywork.ai/p/m",
+          "url": "https://youtube.com/watch?v=QaDWFGT0zbU",
+          "platform": "youtube"
+        },
+        {
+          "text": "My biggest business mistake was being afraid #startup #entrepreneurship. In this video, I share my personal experience of the biggest business mistake",
+          "url": "https://youtube.com/watch?v=ufFzxR0E_-0",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "agents",
+      "mention_count": 5,
+      "engagement_score": 261.31,
+      "sentiment": {
+        "positive": 0,
+        "negative": 5,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.868
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "devto",
+        "hackernews",
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "mukul975/Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "platform": "github"
+        },
+        {
+          "text": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and ",
+          "url": "https://github.com/stablyai/orca",
+          "platform": "github"
+        },
+        {
+          "text": "Show HN: Oak \u2013 Git alternative designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "platform": "hackernews"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "skills",
+      "mention_count": 3,
+      "engagement_score": 199.06,
+      "sentiment": {
+        "positive": 2,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.868
+          }
+        ],
+        "positive_pct": 66.7,
+        "negative_pct": 33.3
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "mukul975/Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "platform": "github"
+        },
+        {
+          "text": "Why Skills Matter More Than Degrees Today. We're living in the first generation where a laptop can create opportunities that once required years of tr",
+          "url": "https://youtube.com/watch?v=hwCIBNmQ2TU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Claude unveils AI tools boosting research, marketing, and academic #ClaudeAI #AITools #productivity. Claude introduced specialized skills that signifi",
+          "url": "https://youtube.com/watch?v=hCloDELFaQ0",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "system",
+      "mention_count": 5,
+      "engagement_score": 140.21,
+      "sentiment": {
+        "positive": 1,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.547
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 20.0,
+        "negative_pct": 80.0
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "The Claude Content System Every Creator Needs in 2026. Want a smarter way to create content? Connect Claude to your browser, let it analyze your niche",
+          "url": "https://youtube.com/watch?v=izB6fS7KUBk",
+          "platform": "youtube"
+        },
+        {
+          "text": "You Don't Have a Productivity Problem, You Have a Values Problem. Most people think the fix for their life is to just be more productive. I had every ",
+          "url": "https://youtube.com/watch?v=HqQYXydI_Z8",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "world",
+      "mention_count": 3,
+      "engagement_score": 138.01,
+      "sentiment": {
+        "positive": 3,
+        "negative": 0,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.99
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.973
+          }
+        ],
+        "positive_pct": 100.0,
+        "negative_pct": 0.0
+      },
+      "platforms": [
+        "hackernews",
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "platform": "github"
+        },
+        {
+          "text": "Virtual \u0995\u09be\u099c \u09aa\u09be\u0993\u09df\u09be\u09b0 Roadmap \ud83d\udcbb\ud83d\udcbc#virtualjob #remotejob #WorkFromHome  #freelancing #AIBangla  #upwork. I\u2019m Towkir Ahmed Farhan - a global creative agency",
+          "url": "https://youtube.com/watch?v=gYt1ff7q03U",
+          "platform": "youtube"
+        },
+        {
+          "text": "Daybreak: Tools for securing every organization in the world",
+          "url": "https://openai.com/index/daybreak-securing-the-world/",
+          "platform": "hackernews"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "tools",
+      "mention_count": 25,
+      "engagement_score": 117.3,
+      "sentiment": {
+        "positive": 13,
+        "negative": 12,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.693
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.976
+          },
+          {
+            "label": "positive",
+            "score": 0.526
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.981
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.643
+          },
+          {
+            "label": "negative",
+            "score": 0.82
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "positive",
+            "score": 0.977
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 52.0,
+        "negative_pct": 48.0
+      },
+      "platforms": [
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The AI Tools You'll ACTUALLY Use in 2026!. I've tested hundreds of AI tools and most people are using the wrong ones for the wrong tasks. In this vide",
+          "url": "https://youtube.com/watch?v=FhtzROwyung",
+          "platform": "youtube"
+        },
+        {
+          "text": "5 AI Tools Rich People Use But Never Share \ud83e\udd2b. The wealthy aren't working harder \u2014 they're using AI tools that multiply their effort while everyone els",
+          "url": "https://youtube.com/watch?v=CpELWh9SPbw",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Best A.I Tools For Content. Want a 15-Min Strategy Call to Grow Your Brand? Watch this short video & apply below \ud83d\udc47\n\n\nFree Live Event: How to Build",
+          "url": "https://youtube.com/watch?v=DledIJMgH7A",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "home",
+      "mention_count": 16,
+      "engagement_score": 109.11,
+      "sentiment": {
+        "positive": 8,
+        "negative": 8,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "positive",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.654
+          },
+          {
+            "label": "positive",
+            "score": 0.804
+          },
+          {
+            "label": "negative",
+            "score": 0.81
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "positive",
+            "score": 0.975
+          },
+          {
+            "label": "negative",
+            "score": 0.978
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.832
+          },
+          {
+            "label": "positive",
+            "score": 0.966
+          },
+          {
+            "label": "negative",
+            "score": 0.94
+          },
+          {
+            "label": "positive",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.96
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Setting Up My MacBook & Building My Home Office in Kenya (Father\u2019s Day). A Sunday at home in Nairobi, Kenya, and it is Father's Day. Being a present d",
+          "url": "https://youtube.com/watch?v=259Q2l0aVoY",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\ude4c\ud83c\udffe 3 DAY Schedule! + FedEx is Hiring | Work From Home Jobs 2026. #workfromhomejobs2026  #workfromhome #remotework \n\ud83d\udc49\ud83c\udffe Ready for a REAL remote work res",
+          "url": "https://youtube.com/watch?v=CqWAfssFYY8",
+          "platform": "youtube"
+        },
+        {
+          "text": "KPMG Hiring 2026 for Freshers | Any Degree Eligible | Work From Home & Hybrid Jobs | Apply Now. \ud83d\ude80 KPMG has started hiring freshers for 2026! In this v",
+          "url": "https://youtube.com/watch?v=joQjRAB45ko",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "work",
+      "mention_count": 21,
+      "engagement_score": 102.7,
+      "sentiment": {
+        "positive": 9,
+        "negative": 12,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.654
+          },
+          {
+            "label": "positive",
+            "score": 0.804
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "negative",
+            "score": 0.98
+          },
+          {
+            "label": "positive",
+            "score": 0.975
+          },
+          {
+            "label": "negative",
+            "score": 0.978
+          },
+          {
+            "label": "negative",
+            "score": 0.968
+          },
+          {
+            "label": "positive",
+            "score": 0.832
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.966
+          },
+          {
+            "label": "negative",
+            "score": 0.94
+          },
+          {
+            "label": "negative",
+            "score": 0.942
+          },
+          {
+            "label": "positive",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.96
+          },
+          {
+            "label": "negative",
+            "score": 0.952
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "\ud83d\ude4c\ud83c\udffe 3 DAY Schedule! + FedEx is Hiring | Work From Home Jobs 2026. #workfromhomejobs2026  #workfromhome #remotework \n\ud83d\udc49\ud83c\udffe Ready for a REAL remote work res",
+          "url": "https://youtube.com/watch?v=CqWAfssFYY8",
+          "platform": "youtube"
+        },
+        {
+          "text": "KPMG Hiring 2026 for Freshers | Any Degree Eligible | Work From Home & Hybrid Jobs | Apply Now. \ud83d\ude80 KPMG has started hiring freshers for 2026! In this v",
+          "url": "https://youtube.com/watch?v=joQjRAB45ko",
+          "platform": "youtube"
+        },
+        {
+          "text": "\u20b91,700 Per Hour \ud83d\ude33 AI Work From Home Job 2026 | Data Annotation Hiring. \ud83d\udd25 \u20b91,700 Per Hour \ud83d\ude33 AI Work From Home Job 2026 | Data Annotation Generalist Hir",
+          "url": "https://youtube.com/watch?v=5GO0u2lNN10",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "business",
+      "mention_count": 26,
+      "engagement_score": 87.16,
+      "sentiment": {
+        "positive": 10,
+        "negative": 16,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.766
+          },
+          {
+            "label": "positive",
+            "score": 0.983
+          },
+          {
+            "label": "negative",
+            "score": 0.98
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.981
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.982
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.979
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.794
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.882
+          },
+          {
+            "label": "negative",
+            "score": 0.779
+          },
+          {
+            "label": "positive",
+            "score": 0.965
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 38.5,
+        "negative_pct": 61.5
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Building a business is INCREDIBLY hard.. We\u2019re confusing what gets funded with what\u2019s worth building.\n\nBuild that business and be proud of your own su",
+          "url": "https://youtube.com/watch?v=gDYX_0yhlhE",
+          "platform": "youtube"
+        },
+        {
+          "text": "How To Earn \u20b91 Lakh Monthly Using AI | Best AI Business Ideas | 5 AI Business Ideas For 2026. How To Earn \u20b91 Lakh Monthly Using AI | Best AI Business ",
+          "url": "https://youtube.com/watch?v=lvKDuIpKC4g",
+          "platform": "youtube"
+        },
+        {
+          "text": "My biggest business mistake was being afraid #startup #entrepreneurship. In this video, I share my personal experience of the biggest business mistake",
+          "url": "https://youtube.com/watch?v=ufFzxR0E_-0",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "job",
+      "mention_count": 10,
+      "engagement_score": 81.7,
+      "sentiment": {
+        "positive": 1,
+        "negative": 9,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.981
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "positive",
+            "score": 0.804
+          },
+          {
+            "label": "negative",
+            "score": 0.81
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "negative",
+            "score": 0.978
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 10.0,
+        "negative_pct": 90.0
+      },
+      "platforms": [
+        "devto",
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Job application asked for my SAT scores",
+          "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+          "platform": "hackernews"
+        },
+        {
+          "text": "\u20b91,700 Per Hour \ud83d\ude33 AI Work From Home Job 2026 | Data Annotation Hiring. \ud83d\udd25 \u20b91,700 Per Hour \ud83d\ude33 AI Work From Home Job 2026 | Data Annotation Generalist Hir",
+          "url": "https://youtube.com/watch?v=5GO0u2lNN10",
+          "platform": "youtube"
+        },
+        {
+          "text": "No Experience? Work From Home Job Hiring Now | Entry-Level Friendly. Work From Home Job Hiring Now! Looking for an entry-level remote job with no degr",
+          "url": "https://youtube.com/watch?v=GRIOzJJ65Wo",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "startup",
+      "mention_count": 17,
+      "engagement_score": 80.74,
+      "sentiment": {
+        "positive": 6,
+        "negative": 11,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.951
+          },
+          {
+            "label": "negative",
+            "score": 0.974
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.868
+          },
+          {
+            "label": "negative",
+            "score": 0.889
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.543
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.794
+          },
+          {
+            "label": "positive",
+            "score": 0.956
+          },
+          {
+            "label": "positive",
+            "score": 0.956
+          }
+        ],
+        "positive_pct": 35.3,
+        "negative_pct": 64.7
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "#StartupIndia #Startup #Bengaluru #Bangalore #Tech #India #Innovation #Entrepreneur #BrainDrain. \u0c2c\u0c46\u0c02\u0c17\u0c33\u0c42\u0c30\u0c41 \u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c4d\u0c1f\u0c2a\u0c4d \u0c2f\u0c1c\u0c2e\u0c3e\u0c28\u0c3f \u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e \u0c35\u0c32\u0c38! \u0c28\u0c3f\u0c1c\u0c2e\u0c48\u0c28 \u0c15\u0c3e\u0c30\u0c23\u0c3e\u0c32\u0c41",
+          "url": "https://youtube.com/watch?v=8UA69oYYvHM",
+          "platform": "youtube"
+        },
+        {
+          "text": "This Indian Trash Tech Startup Just Raised $23M. This Indian Trash Tech Startup Just Raised $23M\nIndian waste-management leader Recykal just closed a ",
+          "url": "https://youtube.com/watch?v=TQmrQRZ962U",
+          "platform": "youtube"
+        },
+        {
+          "text": "Biggest startup mistake? Chasing funding. Subscribe @thetrailblazerspod    on YouTube.. \ud83d\udcb0 Raising money isn't the win most founders think it is.\n\nMany",
+          "url": "https://youtube.com/watch?v=x7W5zhEk2XM",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "productivity",
+      "mention_count": 15,
+      "engagement_score": 71.04,
+      "sentiment": {
+        "positive": 8,
+        "negative": 7,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.643
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.627
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.787
+          },
+          {
+            "label": "positive",
+            "score": 0.819
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          }
+        ],
+        "positive_pct": 53.3,
+        "negative_pct": 46.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Salesforce or ServiceNow: The Next Big AI Productivity Play. Salesforce and ServiceNow are shaping the next wave of AI in business. While investors ha",
+          "url": "https://youtube.com/watch?v=d79TdrJ6gno",
+          "platform": "youtube"
+        },
+        {
+          "text": "WeryAI Tutorial 2026 _ AI Writing_ Images _ Automation. \ud83d\ude80 WeryAI Review 2026 | Powerful AI Content Creation & Productivity Platform\n\nIn this video, we",
+          "url": "https://youtube.com/watch?v=0HGjcXYWvbY",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\udd25 The Tool That Doubled My Team's Productivity \ud83d\ude80Secret Behind Smooth Ecommerce Scaling. Once your ecommerce business crosses \u20b910\u201320 lakh in monthly sa",
+          "url": "https://youtube.com/watch?v=P_-U2NPZyxA",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "coding",
+      "mention_count": 3,
+      "engagement_score": 70.05,
+      "sentiment": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "devto",
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and ",
+          "url": "https://github.com/stablyai/orca",
+          "platform": "github"
+        },
+        {
+          "text": "I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding). I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding)\n\nLearn how to build a",
+          "url": "https://youtube.com/watch?v=7gR4C5WqKLw",
+          "platform": "youtube"
+        },
+        {
+          "text": "Loop Engineering Is Replacing Prompt Engineering \u2014 Here's What That Means for Your AI Coding Bill",
+          "url": "https://dev.to/aplomb2/loop-engineering-is-replacing-prompt-engineering-heres-what-that-means-for-your-ai-coding-bill-108e",
+          "platform": "devto"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "claude",
+      "mention_count": 7,
+      "engagement_score": 64.57,
+      "sentiment": {
+        "positive": 1,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.993
+          },
+          {
+            "label": "negative",
+            "score": 0.98
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.547
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          }
+        ],
+        "positive_pct": 14.3,
+        "negative_pct": 85.7
+      },
+      "platforms": [
+        "hackernews",
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automati",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "platform": "github"
+        },
+        {
+          "text": "The Claude Code Opportunity Nobody's Talking About (2026). \ud83d\ude80 GET FREE ACCESS TO VIROSCOPE AI (My Viral Video Ideation Software):\n\ud83d\udc49 https://tryviroscop",
+          "url": "https://youtube.com/watch?v=K2rH0fF0EZ4",
+          "platform": "youtube"
+        },
+        {
+          "text": "ChatGPT vs Claude vs Gemini: Which AI Subscription Is Worth Your Money in 2026?. ChatGPT vs Claude vs Gemini: Which AI Subscription Is Worth Your Mone",
+          "url": "https://youtube.com/watch?v=_EmxOiJHejo",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "free",
+      "mention_count": 13,
+      "engagement_score": 50.15,
+      "sentiment": {
+        "positive": 3,
+        "negative": 10,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.82
+          },
+          {
+            "label": "negative",
+            "score": 0.991
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.82
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.977
+          },
+          {
+            "label": "negative",
+            "score": 0.589
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.996
+          }
+        ],
+        "positive_pct": 23.1,
+        "negative_pct": 76.9
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding). I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding)\n\nLearn how to build a",
+          "url": "https://youtube.com/watch?v=7gR4C5WqKLw",
+          "platform": "youtube"
+        },
+        {
+          "text": "We Have a Crisis. Working From Home Can Fix It. Subscribe for free to get vetted remote job leads, strategies, and market trends: https://justinbryant",
+          "url": "https://youtube.com/watch?v=ST-i27Jf06U",
+          "platform": "youtube"
+        },
+        {
+          "text": "I Found The Best And Free AI Video Generation Tool \ud83d\ude80. AI Business using ChatGPT, Google Omni, and AI Video Generation is changing how people make mone",
+          "url": "https://youtube.com/watch?v=Qba5eSUZwog",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "indian",
+      "mention_count": 6,
+      "engagement_score": 42.45,
+      "sentiment": {
+        "positive": 1,
+        "negative": 5,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.951
+          },
+          {
+            "label": "negative",
+            "score": 0.974
+          },
+          {
+            "label": "negative",
+            "score": 0.986
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.958
+          }
+        ],
+        "positive_pct": 16.7,
+        "negative_pct": 83.3
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "#StartupIndia #Startup #Bengaluru #Bangalore #Tech #India #Innovation #Entrepreneur #BrainDrain. \u0c2c\u0c46\u0c02\u0c17\u0c33\u0c42\u0c30\u0c41 \u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c4d\u0c1f\u0c2a\u0c4d \u0c2f\u0c1c\u0c2e\u0c3e\u0c28\u0c3f \u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e \u0c35\u0c32\u0c38! \u0c28\u0c3f\u0c1c\u0c2e\u0c48\u0c28 \u0c15\u0c3e\u0c30\u0c23\u0c3e\u0c32\u0c41",
+          "url": "https://youtube.com/watch?v=8UA69oYYvHM",
+          "platform": "youtube"
+        },
+        {
+          "text": "This Indian Trash Tech Startup Just Raised $23M. This Indian Trash Tech Startup Just Raised $23M\nIndian waste-management leader Recykal just closed a ",
+          "url": "https://youtube.com/watch?v=TQmrQRZ962U",
+          "platform": "youtube"
+        },
+        {
+          "text": "That reality behind Indian market\ud83d\udcc8#rajshamani #podcast #shorts #business #marketing #thinkforshamani. \"Thanks for watching! \u2764\ufe0f\nHar roz kuch naya dekhn",
+          "url": "https://youtube.com/watch?v=MIg403lz2u0",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "content",
+      "mention_count": 7,
+      "engagement_score": 42.21,
+      "sentiment": {
+        "positive": 1,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.976
+          },
+          {
+            "label": "negative",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.547
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 14.3,
+        "negative_pct": 85.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "WeryAI Tutorial 2026 _ AI Writing_ Images _ Automation. \ud83d\ude80 WeryAI Review 2026 | Powerful AI Content Creation & Productivity Platform\n\nIn this video, we",
+          "url": "https://youtube.com/watch?v=0HGjcXYWvbY",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Best A.I Tools For Content. Want a 15-Min Strategy Call to Grow Your Brand? Watch this short video & apply below \ud83d\udc47\n\n\nFree Live Event: How to Build",
+          "url": "https://youtube.com/watch?v=DledIJMgH7A",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Only AI Tool Stack You Need in 2026. \ud83d\ude80 Looking for the best AI tools for content creation, business growth, hiring, networking, customer engagemen",
+          "url": "https://youtube.com/watch?v=Bt8XTesPpjw",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "wrong",
+      "mention_count": 3,
+      "engagement_score": 42.15,
+      "sentiment": {
+        "positive": 0,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.693
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The AI Tools You'll ACTUALLY Use in 2026!. I've tested hundreds of AI tools and most people are using the wrong ones for the wrong tasks. In this vide",
+          "url": "https://youtube.com/watch?v=FhtzROwyung",
+          "platform": "youtube"
+        },
+        {
+          "text": "Don't Touch Any AI Tool Before Watching This. The #1 mistake people make with AI isn't using the wrong tool \u2014 it's targeting the wrong market. \nPickin",
+          "url": "https://youtube.com/watch?v=yDp4PexQcTY",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why startups are picking the wrong funding strategies \ud83e\udd2b\ud83c\udfdb\ufe0f. \"A new business owner is not going to have the same strategy as someone established for 3 t",
+          "url": "https://youtube.com/watch?v=vBu5fjWFS_w",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "analysis",
+      "mention_count": 2,
+      "engagement_score": 40.96,
+      "sentiment": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.966
+          },
+          {
+            "label": "negative",
+            "score": 0.985
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "devto",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automati",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "platform": "github"
+        },
+        {
+          "text": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
+          "url": "https://dev.to/ryantsuji/building-one-knowledge-graph-across-46-repositories-with-static-analysis-part-1-egm",
+          "platform": "devto"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "software",
+      "mention_count": 9,
+      "engagement_score": 40.36,
+      "sentiment": {
+        "positive": 4,
+        "negative": 5,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 44.4,
+        "negative_pct": 55.6
+      },
+      "platforms": [
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Pledging another $400k to the Zig software foundation",
+          "url": "https://mitchellh.com/writing/zig-donation-2026",
+          "platform": "hackernews"
+        },
+        {
+          "text": "Jobs and Software Is Fucked",
+          "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+          "platform": "hackernews"
+        },
+        {
+          "text": "Your Business Is Paying for Too Many Software Tools. Your Honor, we\u2019d like to file a case against software overload.\n\nToo many businesses are paying f",
+          "url": "https://youtube.com/watch?v=t3-c4Cvat6s",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "website",
+      "mention_count": 4,
+      "engagement_score": 39.76,
+      "sentiment": {
+        "positive": 2,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.627
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding). I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding)\n\nLearn how to build a",
+          "url": "https://youtube.com/watch?v=7gR4C5WqKLw",
+          "platform": "youtube"
+        },
+        {
+          "text": "This AI Website Has 400+ Tools in One Place \ud83e\udd2f| The Ultimate AI Toolbox for Creators | Free AI Tool. Most people are paying for multiple AI tools separ",
+          "url": "https://youtube.com/watch?v=p2dUKSXY7VE",
+          "platform": "youtube"
+        },
+        {
+          "text": "Monitor Employee Website Activity. Monitor workplace productivity with Time Champ's website activity tracking feature. Learn how to see exactly where ",
+          "url": "https://youtube.com/watch?v=axEe7YApjTY",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "money",
+      "mention_count": 11,
+      "engagement_score": 37.26,
+      "sentiment": {
+        "positive": 4,
+        "negative": 7,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.98
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.643
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 36.4,
+        "negative_pct": 63.6
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "MARK CUBAN: Raising Money Is NOT Success\u2026 | Subscribe to @thetrailblazerspod  for full episode. Mark Cuban explains why most founders misunderstand wh",
+          "url": "https://youtube.com/watch?v=CAZ-b44iWBU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Biggest startup mistake? Chasing funding. Subscribe @thetrailblazerspod    on YouTube.. \ud83d\udcb0 Raising money isn't the win most founders think it is.\n\nMany",
+          "url": "https://youtube.com/watch?v=x7W5zhEk2XM",
+          "platform": "youtube"
+        },
+        {
+          "text": "Mark Cuban's Warning About Money Raises #entrepreneur #startup #truth. Think getting VC funding is the ultimate goal? Mark Cuban explains why it\u2019s act",
+          "url": "https://youtube.com/watch?v=_DMOKszn1PA",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "marketing",
+      "mention_count": 14,
+      "engagement_score": 33.94,
+      "sentiment": {
+        "positive": 6,
+        "negative": 8,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.578
+          },
+          {
+            "label": "negative",
+            "score": 0.958
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.832
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.898
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.664
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.994
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Why most marketing gurus don't actually care about your success \ud83d\udea9 #shorts. Most marketing gurus are obsessed with bragging about their own revenue rat",
+          "url": "https://youtube.com/watch?v=UBVzGUb_bS8",
+          "platform": "youtube"
+        },
+        {
+          "text": "The B2B Marketing Tool Every Lead Gen Team Needs. ",
+          "url": "https://youtube.com/watch?v=_DMR8CXMEtc",
+          "platform": "youtube"
+        },
+        {
+          "text": "Combien vaut vraiment un poste marketing B2B junior  et ce que \u00e7a change pour toi. Un poste marketing B2B junior, c'est entre 2 000 et 3 000 \u20ac de sala",
+          "url": "https://youtube.com/watch?v=rgcUMbaC2HU",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "funding",
+      "mention_count": 11,
+      "engagement_score": 30.86,
+      "sentiment": {
+        "positive": 3,
+        "negative": 8,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.706
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          }
+        ],
+        "positive_pct": 27.3,
+        "negative_pct": 72.7
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Biggest startup mistake? Chasing funding. Subscribe @thetrailblazerspod    on YouTube.. \ud83d\udcb0 Raising money isn't the win most founders think it is.\n\nMany",
+          "url": "https://youtube.com/watch?v=x7W5zhEk2XM",
+          "platform": "youtube"
+        },
+        {
+          "text": "Startup Funding Do\u2019s and Don\u2019ts Every Founder Must Know | Dr. Abdussalam Omar. Startup Funding Do\u2019s and Don\u2019ts Every Founder Must Know | Dr. Abdussala",
+          "url": "https://youtube.com/watch?v=rdrXN5MJjm0",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why Celebrating Your First $1,000,000 Funding Round Means You Already Failed \ud83d\uded1\u2060. Most founders treat a venture capital check like a lottery win. Mark ",
+          "url": "https://youtube.com/watch?v=xTUtt-auQ7E",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "jobs",
+      "mention_count": 3,
+      "engagement_score": 29.4,
+      "sentiment": {
+        "positive": 1,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "hackernews",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Jobs and Software Is Fucked",
+          "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+          "platform": "hackernews"
+        },
+        {
+          "text": "Work From Home Jobs 2026 \ud83d\udd25 | Online Jobs At Home | Tech Mahindra Remote Hiring \ud83e\udd73. 4 Work From Home Jobs 2026 | Online Jobs At Home | Tech Mahindra Rem",
+          "url": "https://youtube.com/watch?v=-m80Xd9NwHc",
+          "platform": "youtube"
+        },
+        {
+          "text": "A desk built to run 2 remote jobs at once \ud83d\udc40. #jobhunt #remotework #overemployed #careertok #jobtok #worktok",
+          "url": "https://youtube.com/watch?v=qTjWLggxaZ8",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "google",
+      "mention_count": 4,
+      "engagement_score": 29.25,
+      "sentiment": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.898
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          }
+        ],
+        "positive_pct": 25.0,
+        "negative_pct": 75.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Google's New AI Search Just KILLED Paid POD Research Tools (Free Niche Tool). Google just turned its search bar into a free POD niche research tool \u2014 ",
+          "url": "https://youtube.com/watch?v=2Vy9WZZebj8",
+          "platform": "youtube"
+        },
+        {
+          "text": "Stop Using Google for Research \u2014 Use THESE 5 AI Tools #shorts #viralai #aitools #geminiai. 2 hours on Google and still only half an answer? \n\n\ud83d\ude24 You're",
+          "url": "https://youtube.com/watch?v=3TgsmGY0D8o",
+          "platform": "youtube"
+        },
+        {
+          "text": "AI for Google Ranking | google se customers | google marketing by AI | google visibility boost. google se customers, customers from google, get more e",
+          "url": "https://youtube.com/watch?v=79iC0DBZ8xo",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc8 rising"
+    },
+    {
+      "topic": "day",
+      "mention_count": 7,
+      "engagement_score": 28.26,
+      "sentiment": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.766
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.977
+          },
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Setting Up My MacBook & Building My Home Office in Kenya (Father\u2019s Day). A Sunday at home in Nairobi, Kenya, and it is Father's Day. Being a present d",
+          "url": "https://youtube.com/watch?v=259Q2l0aVoY",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\ude4c\ud83c\udffe 3 DAY Schedule! + FedEx is Hiring | Work From Home Jobs 2026. #workfromhomejobs2026  #workfromhome #remotework \n\ud83d\udc49\ud83c\udffe Ready for a REAL remote work res",
+          "url": "https://youtube.com/watch?v=CqWAfssFYY8",
+          "platform": "youtube"
+        },
+        {
+          "text": "Making $1M using AI | Day 01 #claudeai #aitools #freeaitools #wealthbuilding #free #business. For more engaging update, Follow this page\n\nInsta ID : m",
+          "url": "https://youtube.com/watch?v=2Qo2K5DKcOY",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "people",
+      "mention_count": 5,
+      "engagement_score": 26.97,
+      "sentiment": {
+        "positive": 2,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.693
+          },
+          {
+            "label": "negative",
+            "score": 0.951
+          },
+          {
+            "label": "positive",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.99
+          }
+        ],
+        "positive_pct": 40.0,
+        "negative_pct": 60.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The AI Tools You'll ACTUALLY Use in 2026!. I've tested hundreds of AI tools and most people are using the wrong ones for the wrong tasks. In this vide",
+          "url": "https://youtube.com/watch?v=FhtzROwyung",
+          "platform": "youtube"
+        },
+        {
+          "text": "5 AI Tools Rich People Use But Never Share \ud83e\udd2b. The wealthy aren't working harder \u2014 they're using AI tools that multiply their effort while everyone els",
+          "url": "https://youtube.com/watch?v=CpELWh9SPbw",
+          "platform": "youtube"
+        },
+        {
+          "text": "Learn This Before Everyone Else Does \ud83d\udd25. \ud83d\ude80 Everyone is talking about AI\u2026\n\nBut very few people are talking about AI Automation.\n\nThe biggest opportunity",
+          "url": "https://youtube.com/watch?v=6IQkwx5Ydqg",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "next",
+      "mention_count": 2,
+      "engagement_score": 26.48,
+      "sentiment": {
+        "positive": 2,
+        "negative": 0,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          }
+        ],
+        "positive_pct": 100.0,
+        "negative_pct": 0.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Salesforce or ServiceNow: The Next Big AI Productivity Play. Salesforce and ServiceNow are shaping the next wave of AI in business. While investors ha",
+          "url": "https://youtube.com/watch?v=d79TdrJ6gno",
+          "platform": "youtube"
+        },
+        {
+          "text": "Next Generation 4-Axis Productivity:  Introducing the Makino a51nx/a61nx version C. Join us for an introduction to the next generation a51nx/a61nx Ver",
+          "url": "https://youtube.com/watch?v=WBmro1IT4JU",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "remote",
+      "mention_count": 5,
+      "engagement_score": 26.43,
+      "sentiment": {
+        "positive": 2,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.976
+          },
+          {
+            "label": "negative",
+            "score": 0.942
+          },
+          {
+            "label": "negative",
+            "score": 0.867
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 40.0,
+        "negative_pct": 60.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Work From Home Jobs 2026 \ud83d\udd25 | Online Jobs At Home | Tech Mahindra Remote Hiring \ud83e\udd73. 4 Work From Home Jobs 2026 | Online Jobs At Home | Tech Mahindra Rem",
+          "url": "https://youtube.com/watch?v=-m80Xd9NwHc",
+          "platform": "youtube"
+        },
+        {
+          "text": "Ofc Laptop becomes Ouija Board\ud83d\udc80 #work #office #humor #tech #fyp. It\u2019s totally Remote work",
+          "url": "https://youtube.com/watch?v=IYWNmCTMr4M",
+          "platform": "youtube"
+        },
+        {
+          "text": "Most remote workers forget they can do this. She is a remote worker. But she doesn't know one very important thing. We are here to help her, and expla",
+          "url": "https://youtube.com/watch?v=BQ8APqhNVp4",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "systems",
+      "mention_count": 7,
+      "engagement_score": 25.63,
+      "sentiment": {
+        "positive": 0,
+        "negative": 7,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Big Mistake: Don't Focus on AI Tools, Focus on Systems!. Big Mistake: Don't Focus on AI Tools, Focus on Systems!\n\nMost businesses are making the same ",
+          "url": "https://youtube.com/watch?v=10lXMLGzJ-E",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems office applications. Stop failing CLEP Information Systems office applications questions by memorizing menu names when the 20",
+          "url": "https://youtube.com/watch?v=paw5R8Q4Srg",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems free study guide. Stop failing CLEP Information Systems free study guide questions by memorizing scattered tech terms when th",
+          "url": "https://youtube.com/watch?v=b0WT1CXtL1Q",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "review",
+      "mention_count": 4,
+      "engagement_score": 25.5,
+      "sentiment": {
+        "positive": 2,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.872
+          },
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.893
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "WeryAI Tutorial 2026 _ AI Writing_ Images _ Automation. \ud83d\ude80 WeryAI Review 2026 | Powerful AI Content Creation & Productivity Platform\n\nIn this video, we",
+          "url": "https://youtube.com/watch?v=0HGjcXYWvbY",
+          "platform": "youtube"
+        },
+        {
+          "text": "Webinar.gg AppSumo Review \u2013 Is This Webinar Platform Worth the Risk?. Honest review of the Webinar.gg AppSumo deal, including pricing tiers, usage lim",
+          "url": "https://youtube.com/watch?v=HziJRINpxZQ",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems final review. Stop failing CLEP Information Systems final review questions by memorizing scattered tech terms when the 2026 e",
+          "url": "https://youtube.com/watch?v=kRIB_RCGsFU",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "founder",
+      "mention_count": 7,
+      "engagement_score": 25.14,
+      "sentiment": {
+        "positive": 5,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.951
+          },
+          {
+            "label": "negative",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.992
+          },
+          {
+            "label": "positive",
+            "score": 0.986
+          },
+          {
+            "label": "positive",
+            "score": 0.543
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          }
+        ],
+        "positive_pct": 71.4,
+        "negative_pct": 28.6
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "#StartupIndia #Startup #Bengaluru #Bangalore #Tech #India #Innovation #Entrepreneur #BrainDrain. \u0c2c\u0c46\u0c02\u0c17\u0c33\u0c42\u0c30\u0c41 \u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c4d\u0c1f\u0c2a\u0c4d \u0c2f\u0c1c\u0c2e\u0c3e\u0c28\u0c3f \u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e \u0c35\u0c32\u0c38! \u0c28\u0c3f\u0c1c\u0c2e\u0c48\u0c28 \u0c15\u0c3e\u0c30\u0c23\u0c3e\u0c32\u0c41",
+          "url": "https://youtube.com/watch?v=8UA69oYYvHM",
+          "platform": "youtube"
+        },
+        {
+          "text": "Startup Funding Do\u2019s and Don\u2019ts Every Founder Must Know | Dr. Abdussalam Omar. Startup Funding Do\u2019s and Don\u2019ts Every Founder Must Know | Dr. Abdussala",
+          "url": "https://youtube.com/watch?v=rdrXN5MJjm0",
+          "platform": "youtube"
+        },
+        {
+          "text": "No one tells a founder about this HR compliance!. Support podcast \u2935\ufe0e\nUPI: srirampodcast@ybl\n\nJoin the Founders Compliance Support WhatsApp group \u2935\ufe0e \nA",
+          "url": "https://youtube.com/watch?v=hFecIsKeAiA",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "generation",
+      "mention_count": 4,
+      "engagement_score": 22.29,
+      "sentiment": {
+        "positive": 3,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.82
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          }
+        ],
+        "positive_pct": 75.0,
+        "negative_pct": 25.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding). I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding)\n\nLearn how to build a",
+          "url": "https://youtube.com/watch?v=7gR4C5WqKLw",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why Skills Matter More Than Degrees Today. We're living in the first generation where a laptop can create opportunities that once required years of tr",
+          "url": "https://youtube.com/watch?v=hwCIBNmQ2TU",
+          "platform": "youtube"
+        },
+        {
+          "text": "I Found The Best And Free AI Video Generation Tool \ud83d\ude80. AI Business using ChatGPT, Google Omni, and AI Video Generation is changing how people make mone",
+          "url": "https://youtube.com/watch?v=Qba5eSUZwog",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "freshers",
+      "mention_count": 2,
+      "engagement_score": 21.59,
+      "sentiment": {
+        "positive": 1,
+        "negative": 1,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.654
+          },
+          {
+            "label": "negative",
+            "score": 0.81
+          }
+        ],
+        "positive_pct": 50.0,
+        "negative_pct": 50.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "KPMG Hiring 2026 for Freshers | Any Degree Eligible | Work From Home & Hybrid Jobs | Apply Now. \ud83d\ude80 KPMG has started hiring freshers for 2026! In this v",
+          "url": "https://youtube.com/watch?v=joQjRAB45ko",
+          "platform": "youtube"
+        },
+        {
+          "text": "\ud83d\udd35Jio - Work From Home Job 2026\ud83c\udfe0| 10th/12th Pass | Freshers Eligible | Apply Now \u2705. Work From Home Job 2026\ud83c\udfe0| 10th/12th Pass | Freshers Eligible | Appl",
+          "url": "https://youtube.com/watch?v=u5t59w2YQzU",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "sales",
+      "mention_count": 8,
+      "engagement_score": 20.62,
+      "sentiment": {
+        "positive": 5,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.996
+          },
+          {
+            "label": "positive",
+            "score": 0.633
+          },
+          {
+            "label": "positive",
+            "score": 0.809
+          },
+          {
+            "label": "positive",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.72
+          },
+          {
+            "label": "negative",
+            "score": 0.72
+          }
+        ],
+        "positive_pct": 62.5,
+        "negative_pct": 37.5
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "GTM engineer role transforms B2B sales through AI-powered #GTMengineer #AIautomation #B2Bgrowth. GTM engineer emerged as the highest paying job in 202",
+          "url": "https://youtube.com/watch?v=DQWhGQv3p7I",
+          "platform": "youtube"
+        },
+        {
+          "text": "Marketing vs. Sales: Why Your Business Will Fail Without Both of Them. \ud83c\udf99\ufe0f What does it take to transform a legacy giant into a digital growth engine f",
+          "url": "https://youtube.com/watch?v=X9eUKCUD730",
+          "platform": "youtube"
+        },
+        {
+          "text": "Someone in my sales training today asked the most honest question  #chinesebrands #importexportchina. Someone in my sales training today asked the mos",
+          "url": "https://youtube.com/watch?v=Aqz_t8Xim6U",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "tool",
+      "mention_count": 9,
+      "engagement_score": 19.86,
+      "sentiment": {
+        "positive": 1,
+        "negative": 8,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.987
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.82
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.832
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 11.1,
+        "negative_pct": 88.9
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "This AI Tool Charges $50 For A LinkedIn Headshot #Shorts. $50 for one LinkedIn headshot \u2014 A.I. makes it, no camera, no studio. Would you sell this? Ty",
+          "url": "https://youtube.com/watch?v=NTLdVtjGl0Q",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Only AI Tool Stack You Need in 2026. \ud83d\ude80 Looking for the best AI tools for content creation, business growth, hiring, networking, customer engagemen",
+          "url": "https://youtube.com/watch?v=Bt8XTesPpjw",
+          "platform": "youtube"
+        },
+        {
+          "text": "The B2B Marketing Tool Every Lead Gen Team Needs. ",
+          "url": "https://youtube.com/watch?v=_DMR8CXMEtc",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "information",
+      "mention_count": 7,
+      "engagement_score": 19.35,
+      "sentiment": {
+        "positive": 0,
+        "negative": 7,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "B2B Content Marketing & Information Management Strategie f\u00fcr AI Visibility | LLMO | GEO. Sinkende Website-Zugriffe im B2B? Warum das (erstmal) kein Gr",
+          "url": "https://youtube.com/watch?v=wI2md4hcw2I",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems office applications. Stop failing CLEP Information Systems office applications questions by memorizing menu names when the 20",
+          "url": "https://youtube.com/watch?v=paw5R8Q4Srg",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems free study guide. Stop failing CLEP Information Systems free study guide questions by memorizing scattered tech terms when th",
+          "url": "https://youtube.com/watch?v=b0WT1CXtL1Q",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "best",
+      "mention_count": 7,
+      "engagement_score": 19.0,
+      "sentiment": {
+        "positive": 5,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.976
+          },
+          {
+            "label": "positive",
+            "score": 0.983
+          },
+          {
+            "label": "positive",
+            "score": 0.996
+          },
+          {
+            "label": "negative",
+            "score": 0.987
+          },
+          {
+            "label": "positive",
+            "score": 0.977
+          },
+          {
+            "label": "positive",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.809
+          }
+        ],
+        "positive_pct": 71.4,
+        "negative_pct": 28.6
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "The Best A.I Tools For Content. Want a 15-Min Strategy Call to Grow Your Brand? Watch this short video & apply below \ud83d\udc47\n\n\nFree Live Event: How to Build",
+          "url": "https://youtube.com/watch?v=DledIJMgH7A",
+          "platform": "youtube"
+        },
+        {
+          "text": "How To Earn \u20b91 Lakh Monthly Using AI | Best AI Business Ideas | 5 AI Business Ideas For 2026. How To Earn \u20b91 Lakh Monthly Using AI | Best AI Business ",
+          "url": "https://youtube.com/watch?v=lvKDuIpKC4g",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Only AI Tool Stack You Need in 2026. \ud83d\ude80 Looking for the best AI tools for content creation, business growth, hiring, networking, customer engagemen",
+          "url": "https://youtube.com/watch?v=Bt8XTesPpjw",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "startups",
+      "mention_count": 7,
+      "engagement_score": 18.45,
+      "sentiment": {
+        "positive": 3,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.585
+          },
+          {
+            "label": "positive",
+            "score": 1.0
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "positive",
+            "score": 0.706
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.935
+          }
+        ],
+        "positive_pct": 42.9,
+        "negative_pct": 57.1
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Londres, Disney y financiamiento para \u2018startups\u2019. \ud83d\udc40. ",
+          "url": "https://youtube.com/watch?v=Bx8gALpsUCM",
+          "platform": "youtube"
+        },
+        {
+          "text": "The Reality of Funding in Startups #ai #startup #shorts. This candid take on fundraising provides insight into the startup challenge, appealing to ent",
+          "url": "https://youtube.com/watch?v=05xEoqqqkWU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why Most Startups Fail in New Markets #shorts #newmarket. Most startups think expanding into a new market is all about funding, hiring, and execution.",
+          "url": "https://youtube.com/watch?v=HBdyTMlbDLs",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "pricing",
+      "mention_count": 9,
+      "engagement_score": 18.13,
+      "sentiment": {
+        "positive": 3,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.99
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.773
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "positive",
+            "score": 0.893
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Pricing for AI SaaS products. Convert more customers at higher price points with value propositions, clear use cases, personas, and more #productmarke",
+          "url": "https://youtube.com/watch?v=oO4IgEE_bCY",
+          "platform": "youtube"
+        },
+        {
+          "text": "Day 05/100 : From Beginner to Developer : Pricing Card using HTML CSS.. Day 05: Beautiful Pricing Section\nSaaS websites love this design \ud83d\ude80\n\n\n\n#100days",
+          "url": "https://youtube.com/watch?v=CYWnR5PznUI",
+          "platform": "youtube"
+        },
+        {
+          "text": "Chatbot Pricing Revealed: Hidden Costs & Best Plans! #shorts. Understand Chatnode's limitations: 20MB file upload cap, opaque credit system, and lower",
+          "url": "https://youtube.com/watch?v=x3X0UKk8NwI",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "round",
+      "mention_count": 4,
+      "engagement_score": 17.6,
+      "sentiment": {
+        "positive": 1,
+        "negative": 3,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.984
+          }
+        ],
+        "positive_pct": 25.0,
+        "negative_pct": 75.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "MARK CUBAN: Raising Money Is NOT Success\u2026 | Subscribe to @thetrailblazerspod  for full episode. Mark Cuban explains why most founders misunderstand wh",
+          "url": "https://youtube.com/watch?v=CAZ-b44iWBU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Biggest startup mistake? Chasing funding. Subscribe @thetrailblazerspod    on YouTube.. \ud83d\udcb0 Raising money isn't the win most founders think it is.\n\nMany",
+          "url": "https://youtube.com/watch?v=x7W5zhEk2XM",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why Celebrating Your First $1,000,000 Funding Round Means You Already Failed \ud83d\uded1\u2060. Most founders treat a venture capital check like a lottery win. Mark ",
+          "url": "https://youtube.com/watch?v=xTUtt-auQ7E",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "saas",
+      "mention_count": 8,
+      "engagement_score": 17.18,
+      "sentiment": {
+        "positive": 2,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "positive",
+            "score": 0.928
+          },
+          {
+            "label": "positive",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.933
+          },
+          {
+            "label": "negative",
+            "score": 0.988
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.773
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 1.0
+          }
+        ],
+        "positive_pct": 25.0,
+        "negative_pct": 75.0
+      },
+      "platforms": [
+        "devto",
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "Your SaaS is probably leaking money right now \u2014 and you don't know it",
+          "url": "https://dev.to/manolito99/your-saas-is-probably-leaking-money-right-now-and-you-dont-know-it-1g38",
+          "platform": "devto"
+        },
+        {
+          "text": "Pricing for AI SaaS products. Convert more customers at higher price points with value propositions, clear use cases, personas, and more #productmarke",
+          "url": "https://youtube.com/watch?v=oO4IgEE_bCY",
+          "platform": "youtube"
+        },
+        {
+          "text": "Top 5 AI App Builders in 2026 (Build SaaS Apps Without Coding). AI app builders have evolved fast, making it possible to create full-stack application",
+          "url": "https://youtube.com/watch?v=XauhjBxweLA",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    },
+    {
+      "topic": "founders",
+      "mention_count": 6,
+      "engagement_score": 17.07,
+      "sentiment": {
+        "positive": 2,
+        "negative": 4,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.999
+          },
+          {
+            "label": "positive",
+            "score": 0.999
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "positive",
+            "score": 0.982
+          },
+          {
+            "label": "negative",
+            "score": 0.998
+          }
+        ],
+        "positive_pct": 33.3,
+        "negative_pct": 66.7
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "MARK CUBAN: Raising Money Is NOT Success\u2026 | Subscribe to @thetrailblazerspod  for full episode. Mark Cuban explains why most founders misunderstand wh",
+          "url": "https://youtube.com/watch?v=CAZ-b44iWBU",
+          "platform": "youtube"
+        },
+        {
+          "text": "Why Celebrating Your First $1,000,000 Funding Round Means You Already Failed \ud83d\uded1\u2060. Most founders treat a venture capital check like a lottery win. Mark ",
+          "url": "https://youtube.com/watch?v=xTUtt-auQ7E",
+          "platform": "youtube"
+        },
+        {
+          "text": "India\u2019s Women Founders Just Raised $350M! \ud83d\ude80 (The New Startup Boom) #viral #trending #motivation. \ud83d\ude80 Women-Led Startups Raise $350 Million in Q1 2026: A",
+          "url": "https://youtube.com/watch?v=2hf75Am8Wo4",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    {
+      "topic": "clep",
+      "mention_count": 6,
+      "engagement_score": 17.0,
+      "sentiment": {
+        "positive": 0,
+        "negative": 6,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.995
+          },
+          {
+            "label": "negative",
+            "score": 0.989
+          },
+          {
+            "label": "negative",
+            "score": 0.983
+          },
+          {
+            "label": "negative",
+            "score": 0.994
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          },
+          {
+            "label": "negative",
+            "score": 0.997
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "CLEP Information Systems office applications. Stop failing CLEP Information Systems office applications questions by memorizing menu names when the 20",
+          "url": "https://youtube.com/watch?v=paw5R8Q4Srg",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems free study guide. Stop failing CLEP Information Systems free study guide questions by memorizing scattered tech terms when th",
+          "url": "https://youtube.com/watch?v=b0WT1CXtL1Q",
+          "platform": "youtube"
+        },
+        {
+          "text": "CLEP Information Systems final review. Stop failing CLEP Information Systems final review questions by memorizing scattered tech terms when the 2026 e",
+          "url": "https://youtube.com/watch?v=kRIB_RCGsFU",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\u27a1\ufe0f steady"
+    },
+    {
+      "topic": "build",
+      "mention_count": 2,
+      "engagement_score": 16.69,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.998
+          },
+          {
+            "label": "negative",
+            "score": 0.979
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube"
+      ],
+      "sample_posts": [
+        {
+          "text": "I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding). I Built a $10000 Animated Website With AI For Free \ud83e\udd2f (0 Coding)\n\nLearn how to build a",
+          "url": "https://youtube.com/watch?v=7gR4C5WqKLw",
+          "platform": "youtube"
+        },
+        {
+          "text": "Building a business is INCREDIBLY hard.. We\u2019re confusing what gets funded with what\u2019s worth building.\n\nBuild that business and be proud of your own su",
+          "url": "https://youtube.com/watch?v=gDYX_0yhlhE",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udcc9 falling"
+    }
+  ],
+  "platform_native_trending": {
+    "youtube": [
+      {
+        "title": "EVAN (\uc5d0\ubc18) 'Ride or Die' Official MV",
+        "channel": "HYBE LABELS",
+        "views": "3124454",
+        "url": "https://youtube.com/watch?v=CsGENgLpyaw"
+      },
+      {
+        "title": "KLARA AND THE SUN \u2013 Official Trailer (4K)",
+        "channel": "Sony Pictures Entertainment",
+        "views": "2005331",
+        "url": "https://youtube.com/watch?v=wixzainceAE"
+      },
+      {
+        "title": "Even Valve is Disappointed - Steam Machine Review",
+        "channel": "Linus Tech Tips",
+        "views": "1744888",
+        "url": "https://youtube.com/watch?v=6tI1SoMj5vg"
+      },
+      {
+        "title": "Hearts2Hearts \ud558\uce20\ud22c\ud558\uce20 'Lemon Tang' MV",
+        "channel": "SMTOWN",
+        "views": "3610894",
+        "url": "https://youtube.com/watch?v=1VqxWNwgf5Q"
+      },
+      {
+        "title": "House Of The Dragon Season 3 Episode 2 Trailer Breakdown & Easter Eggs",
+        "channel": "Emergency Awesome",
+        "views": "122821",
+        "url": "https://youtube.com/watch?v=VgQTU5zWN4A"
+      },
+      {
+        "title": "I Can\u2019t Believe This Worked (Meccha Chameleon)",
+        "channel": "CaseOh",
+        "views": "237545",
+        "url": "https://youtube.com/watch?v=1VXqo23YZ00"
+      },
+      {
+        "title": "G Herbo - Steel (Official Video)",
+        "channel": "G Herbo",
+        "views": "78926",
+        "url": "https://youtube.com/watch?v=-ShK9mZtMbI"
+      },
+      {
+        "title": "Love and Deepspace | Valko: Chasing Night",
+        "channel": "Love and Deepspace ",
+        "views": "148675",
+        "url": "https://youtube.com/watch?v=q3F9dcorlsY"
+      },
+      {
+        "title": "PLAYING FOUR IN A ROW WITH VIEWERS ON ROBLOX",
+        "channel": "Tango",
+        "views": "1026862",
+        "url": "https://youtube.com/watch?v=N6O5sFBiTpk"
+      },
+      {
+        "title": "Overflow",
+        "channel": "EVAN - Topic",
+        "views": "532195",
+        "url": "https://youtube.com/watch?v=U9ZnuE4H2p4"
+      },
+      {
+        "title": "House of the Dragon | S3 Weeks Ahead Trailer | HBO Max",
+        "channel": "GameofThrones",
+        "views": "587808",
+        "url": "https://youtube.com/watch?v=xZUavocHU2g"
+      },
+      {
+        "title": "This Might Be My New Favorite Game (Meccha Chameleon)",
+        "channel": "SSundee",
+        "views": "215210",
+        "url": "https://youtube.com/watch?v=xW0-Ko1nra4"
+      },
+      {
+        "title": "My Deepest Thoughts",
+        "channel": "Boosie Badazz - Topic",
+        "views": "43326",
+        "url": "https://youtube.com/watch?v=0pVtPe1_Z-c"
+      },
+      {
+        "title": "THE BAY Official Trailer (2026)",
+        "channel": "Movie Trailers Source",
+        "views": "62304",
+        "url": "https://youtube.com/watch?v=bukcCgYPPaM"
+      },
+      {
+        "title": "Nobody trusts these studios anymore...",
+        "channel": "Asmongold TV  ",
+        "views": "350264",
+        "url": "https://youtube.com/watch?v=dSKsgUu7qQw"
+      },
+      {
+        "title": "Peezy - First Day Of Summer (Official Video)",
+        "channel": "PeezyVEVO",
+        "views": "14983",
+        "url": "https://youtube.com/watch?v=itRn0tnku_E"
+      },
+      {
+        "title": "GTA 6 Price & Trailer 3 Leaks!?",
+        "channel": "InkTV",
+        "views": "29749",
+        "url": "https://youtube.com/watch?v=TY4BMiDU1bw"
+      },
+      {
+        "title": "roblox best gameplay",
+        "channel": "StanRP",
+        "views": "291070",
+        "url": "https://youtube.com/watch?v=pmg8YSQVmJU"
+      },
+      {
+        "title": "Lewa",
+        "channel": "Release - Topic",
+        "views": "97718",
+        "url": "https://youtube.com/watch?v=NYT5zzex7yo"
+      },
+      {
+        "title": "Ricky Gervais' Alley Cats | Official Trailer | Netflix",
+        "channel": "Netflix",
+        "views": "210294",
+        "url": "https://youtube.com/watch?v=aIkRFKsoOiM"
+      },
+      {
+        "title": "INFINITE ADDICTION = INFINITE MONEY | Scritchy Scratchy",
+        "channel": "Markiplier",
+        "views": "1423173",
+        "url": "https://youtube.com/watch?v=OjOTclvjPw0"
+      },
+      {
+        "title": "Sean Rii, Wally Pazzi - No Other Love (Official Music Video)",
+        "channel": "SeanRiiVEVO",
+        "views": "50585",
+        "url": "https://youtube.com/watch?v=rxyNUVQQOz8"
+      },
+      {
+        "title": "Drinker's Chasers - Spider-Man: Brand New Trailer Reaction",
+        "channel": "Critical Drinker After Hours",
+        "views": "50339",
+        "url": "https://youtube.com/watch?v=dN8CqyKovKM"
+      },
+      {
+        "title": "Valve Steam Machine Review: GPU & CPU Benchmarks, SteamOS Test, Thermals, Noise, and Price",
+        "channel": "Gamers Nexus",
+        "views": "527266",
+        "url": "https://youtube.com/watch?v=66QzlDewigE"
+      },
+      {
+        "title": "FADED",
+        "channel": "Key Glock - Topic",
+        "views": "97096",
+        "url": "https://youtube.com/watch?v=d0as6Lu8_hM"
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "Steam Machine launches today",
+        "score": 1479,
+        "comments": 1301,
+        "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
+      },
+      {
+        "title": "Will It Mythos?",
+        "score": 118,
+        "comments": 66,
+        "url": "https://swelljoe.com/post/will-it-mythos/"
+      },
+      {
+        "title": "The new HTTP QUERY method explained",
+        "score": 18,
+        "comments": 2,
+        "url": "https://kreya.app/blog/new-http-query-method-explained/"
+      },
+      {
+        "title": "GLM-5.2 \u2013 How to Run Locally",
+        "score": 329,
+        "comments": 144,
+        "url": "https://unsloth.ai/docs/models/glm-5.2"
+      },
+      {
+        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+        "score": 137,
+        "comments": 46,
+        "url": "https://arxiv.org/abs/2606.16140"
+      },
+      {
+        "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+        "score": 205,
+        "comments": 160,
+        "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2"
+      },
+      {
+        "title": "In praise of memcached",
+        "score": 126,
+        "comments": 48,
+        "url": "https://jchri.st/blog/in-praise-of-memcached/"
+      },
+      {
+        "title": "An Introduction to YOLO26",
+        "score": 59,
+        "comments": 15,
+        "url": "https://blog.roboflow.com/yolo26/"
+      },
+      {
+        "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
+        "score": 53,
+        "comments": 16,
+        "url": "https://openai.com/index/daybreak-securing-the-world/"
+      },
+      {
+        "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+        "score": 35,
+        "comments": 4,
+        "url": "https://arxiv.org/abs/2606.03748"
+      },
+      {
+        "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+        "score": 160,
+        "comments": 40,
+        "url": "https://github.com/dorukkumkumoglu/optocamzero"
+      },
+      {
+        "title": "My Mathematical Regression",
+        "score": 273,
+        "comments": 103,
+        "url": "https://blog.dahl.dev/posts/my-mathematical-regression/"
+      },
+      {
+        "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+        "score": 275,
+        "comments": 69,
+        "url": "https://hustvl.github.io/Moebius/"
+      },
+      {
+        "title": "Windows NT for GameCube/Wii",
+        "score": 55,
+        "comments": 9,
+        "url": "https://github.com/Wack0/entii-for-workcubes"
+      },
+      {
+        "title": "Cyberdecks, going analog, and convivial technology",
+        "score": 91,
+        "comments": 45,
+        "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/"
+      },
+      {
+        "title": "Japanese symbols that speak without words",
+        "score": 164,
+        "comments": 86,
+        "url": "https://arun.is/blog/japan-symbols/"
+      },
+      {
+        "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+        "score": 7,
+        "comments": 0,
+        "url": "https://github.com/imtomt/ymawky/tree/linux"
+      },
+      {
+        "title": "Show HN: Oak \u2013 Git alternative designed for agents",
+        "score": 181,
+        "comments": 162,
+        "url": "https://oak.space/oak/oak"
+      },
+      {
+        "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+        "score": 439,
+        "comments": 283,
+        "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"
+      },
+      {
+        "title": "Package Managers need global hooks",
+        "score": 16,
+        "comments": 24,
+        "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/"
+      },
+      {
+        "title": "Improvements to Std:Format in C++26",
+        "score": 3,
+        "comments": 0,
+        "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/"
+      },
+      {
+        "title": "How Lume Works: The Retrieval Primitives",
+        "score": 4,
+        "comments": 0,
+        "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives"
+      },
+      {
+        "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
+        "score": 23,
+        "comments": 11,
+        "url": "https://news.ycombinator.com/item?id=48641160"
+      },
+      {
+        "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+        "score": 486,
+        "comments": 199,
+        "url": "https://ipvm.com/reports/police-chiefs-track"
+      },
+      {
+        "title": "Canyon HUD helmet for road riding",
+        "score": 89,
+        "comments": 101,
+        "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/"
+      }
+    ],
+    "devto": [
+      {
+        "title": "I am behind, and I can't prove it but does it matter?",
+        "author": "francistrdev",
+        "reactions": 48,
+        "url": "https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6"
+      },
+      {
+        "title": "The Principle of Least AI",
+        "author": "ingosteinke",
+        "reactions": 36,
+        "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0"
+      },
+      {
+        "title": "I Wish I Had Started Documenting My Tech Journey Earlier",
+        "author": "hemapriya_kanagala",
+        "reactions": 62,
+        "url": "https://dev.to/hemapriya_kanagala/i-wish-i-had-started-documenting-my-tech-journey-earlier-5d7m"
+      },
+      {
+        "title": "What are your Goals for the week? #184",
+        "author": "jarvisscript",
+        "reactions": 8,
+        "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-184-2kda"
+      },
+      {
+        "title": "What it takes to build docs worth reading",
+        "author": "lolocoding",
+        "reactions": 8,
+        "url": "https://dev.to/devsofmidnight/what-it-takes-to-build-docs-worth-reading-2290"
+      },
+      {
+        "title": "Do localhost para o mundo",
+        "author": "bruno_freschi",
+        "reactions": 32,
+        "url": "https://dev.to/he4rt/do-localhost-para-o-mundo-2o44"
+      },
+      {
+        "title": "The Stale Feature Flag We Deleted That Turned a Feature Back On",
+        "author": "pixel-wraith",
+        "reactions": 4,
+        "url": "https://dev.to/pixel-wraith/the-stale-feature-flag-we-deleted-that-turned-a-feature-back-on-529m"
+      },
+      {
+        "title": "Voc\u00ea n\u00e3o precisa ser especialista para contribuir em uma comunidade",
+        "author": "gabrielfvdev",
+        "reactions": 30,
+        "url": "https://dev.to/gabrielfvdev/voce-nao-precisa-ser-especialista-para-contribuir-em-uma-comunidade-29gd"
+      },
+      {
+        "title": "Link or Button, that is the question.",
+        "author": "micaavigliano",
+        "reactions": 16,
+        "url": "https://dev.to/micaavigliano/link-or-button-that-is-the-question-2n13"
+      },
+      {
+        "title": "What Prime Day Taught Me About Prompt Engineering",
+        "author": "cseeman",
+        "reactions": 4,
+        "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek"
+      }
+    ],
+    "github": [
+      {
+        "name": "calesthio/OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "name": "palmier-io/palmier-pro",
+        "description": "macOS video editor built for AI",
+        "url": "https://github.com/palmier-io/palmier-pro"
+      },
+      {
+        "name": "jamiepine/voicebox",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "url": "https://github.com/jamiepine/voicebox"
+      },
+      {
+        "name": "mukul975/Anthropic-Cybersecurity-Skills",
+        "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+      },
+      {
+        "name": "penpot/penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "url": "https://github.com/penpot/penpot"
+      },
+      {
+        "name": "Stirling-Tools/Stirling-PDF",
+        "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+      },
+      {
+        "name": "garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "url": "https://github.com/garrytan/gstack"
+      },
+      {
+        "name": "heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "url": "https://github.com/heygen-com/hyperframes"
+      },
+      {
+        "name": "tursodatabase/turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "url": "https://github.com/tursodatabase/turso"
+      },
+      {
+        "name": "bytedance/deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "url": "https://github.com/bytedance/deer-flow"
+      }
+    ]
+  },
+  "summary": {
+    "top_rising_topics": [
+      {
+        "topic": "manager",
+        "mention_count": 2,
+        "engagement_score": 2272.88,
+        "sentiment": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.933
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            }
+          ],
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        "platforms": [
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+            "url": "https://github.com/garrytan/gstack",
+            "platform": "github"
+          },
+          {
+            "text": "SaaS Operations Manager. A SaaS Operations Manager powered by Ask AI helps agency owners manage SaaS plans, pricing, features, workflows, and account ",
+            "url": "https://youtube.com/watch?v=sKUpfHr1RMg",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "use",
+        "mention_count": 2,
+        "engagement_score": 1137.49,
+        "sentiment": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.992
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            }
+          ],
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        "platforms": [
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+            "url": "https://github.com/garrytan/gstack",
+            "platform": "github"
+          },
+          {
+            "text": "Stop Using Google for Research \u2014 Use THESE 5 AI Tools #shorts #viralai #aitools #geminiai. 2 hours on Google and still only half an answer? \n\n\ud83d\ude24 You're",
+            "url": "https://youtube.com/watch?v=3TgsmGY0D8o",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "help",
+        "mention_count": 2,
+        "engagement_score": 737.64,
+        "sentiment": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.996
+            },
+            {
+              "label": "positive",
+              "score": 0.993
+            }
+          ],
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        "platforms": [
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, ",
+            "url": "https://github.com/bytedance/deer-flow",
+            "platform": "github"
+          },
+          {
+            "text": "How to start an app without AI  #tech #dev #Ai #business #technology. How to start an app without AI  #tech #dev #Ai #business #technology \n\nlike, com",
+            "url": "https://youtube.com/watch?v=5oumXyDnJMA",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "cli",
+        "mention_count": 2,
+        "engagement_score": 383.39,
+        "sentiment": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "negative",
+              "score": 0.868
+            }
+          ],
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        "platforms": [
+          "hackernews",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "mukul975/Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+            "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+            "platform": "github"
+          },
+          {
+            "text": "Rlwrap your CLI tools, dammit",
+            "url": "https://github.com/hanslub42/rlwrap",
+            "platform": "hackernews"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "video",
+        "mention_count": 9,
+        "engagement_score": 297.4,
+        "sentiment": {
+          "positive": 6,
+          "negative": 3,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.82
+            },
+            {
+              "label": "positive",
+              "score": 0.977
+            },
+            {
+              "label": "negative",
+              "score": 0.985
+            },
+            {
+              "label": "positive",
+              "score": 0.998
+            },
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.664
+            },
+            {
+              "label": "positive",
+              "score": 0.809
+            },
+            {
+              "label": "positive",
+              "score": 0.973
+            }
+          ],
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        "platforms": [
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "platform": "github"
+          },
+          {
+            "text": "How To Run An Entire Agency With Skywork 3.0 AI. #AI #Skywork #AIAgents #Productivity #ArtificialIntelligence\n\nTry Skywork 3.0: https://skywork.ai/p/m",
+            "url": "https://youtube.com/watch?v=QaDWFGT0zbU",
+            "platform": "youtube"
+          },
+          {
+            "text": "My biggest business mistake was being afraid #startup #entrepreneurship. In this video, I share my personal experience of the biggest business mistake",
+            "url": "https://youtube.com/watch?v=ufFzxR0E_-0",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "agents",
+        "mention_count": 5,
+        "engagement_score": 261.31,
+        "sentiment": {
+          "positive": 0,
+          "negative": 5,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            },
+            {
+              "label": "negative",
+              "score": 1.0
+            },
+            {
+              "label": "negative",
+              "score": 0.868
+            },
+            {
+              "label": "negative",
+              "score": 0.994
+            }
+          ],
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        "platforms": [
+          "devto",
+          "hackernews",
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "mukul975/Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+            "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+            "platform": "github"
+          },
+          {
+            "text": "stablyai/orca: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and ",
+            "url": "https://github.com/stablyai/orca",
+            "platform": "github"
+          },
+          {
+            "text": "Show HN: Oak \u2013 Git alternative designed for agents",
+            "url": "https://oak.space/oak/oak",
+            "platform": "hackernews"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "skills",
+        "mention_count": 3,
+        "engagement_score": 199.06,
+        "sentiment": {
+          "positive": 2,
+          "negative": 1,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "positive",
+              "score": 0.999
+            },
+            {
+              "label": "positive",
+              "score": 0.996
+            },
+            {
+              "label": "negative",
+              "score": 0.868
+            }
+          ],
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        "platforms": [
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "mukul975/Anthropic-Cybersecurity-Skills: 817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE",
+            "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+            "platform": "github"
+          },
+          {
+            "text": "Why Skills Matter More Than Degrees Today. We're living in the first generation where a laptop can create opportunities that once required years of tr",
+            "url": "https://youtube.com/watch?v=hwCIBNmQ2TU",
+            "platform": "youtube"
+          },
+          {
+            "text": "Claude unveils AI tools boosting research, marketing, and academic #ClaudeAI #AITools #productivity. Claude introduced specialized skills that signifi",
+            "url": "https://youtube.com/watch?v=hCloDELFaQ0",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "system",
+        "mention_count": 5,
+        "engagement_score": 140.21,
+        "sentiment": {
+          "positive": 1,
+          "negative": 4,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.547
+            },
+            {
+              "label": "negative",
+              "score": 1.0
+            },
+            {
+              "label": "negative",
+              "score": 0.994
+            },
+            {
+              "label": "negative",
+              "score": 0.996
+            },
+            {
+              "label": "positive",
+              "score": 0.973
+            }
+          ],
+          "positive_pct": 20.0,
+          "negative_pct": 80.0
+        },
+        "platforms": [
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "platform": "github"
+          },
+          {
+            "text": "The Claude Content System Every Creator Needs in 2026. Want a smarter way to create content? Connect Claude to your browser, let it analyze your niche",
+            "url": "https://youtube.com/watch?v=izB6fS7KUBk",
+            "platform": "youtube"
+          },
+          {
+            "text": "You Don't Have a Productivity Problem, You Have a Values Problem. Most people think the fix for their life is to just be more productive. I had every ",
+            "url": "https://youtube.com/watch?v=HqQYXydI_Z8",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "world",
+        "mention_count": 3,
+        "engagement_score": 138.01,
+        "sentiment": {
+          "positive": 3,
+          "negative": 0,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "positive",
+              "score": 0.99
+            },
+            {
+              "label": "positive",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.973
+            }
+          ],
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        "platforms": [
+          "hackernews",
+          "youtube",
+          "github"
+        ],
+        "sample_posts": [
+          {
+            "text": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assi",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "platform": "github"
+          },
+          {
+            "text": "Virtual \u0995\u09be\u099c \u09aa\u09be\u0993\u09df\u09be\u09b0 Roadmap \ud83d\udcbb\ud83d\udcbc#virtualjob #remotejob #WorkFromHome  #freelancing #AIBangla  #upwork. I\u2019m Towkir Ahmed Farhan - a global creative agency",
+            "url": "https://youtube.com/watch?v=gYt1ff7q03U",
+            "platform": "youtube"
+          },
+          {
+            "text": "Daybreak: Tools for securing every organization in the world",
+            "url": "https://openai.com/index/daybreak-securing-the-world/",
+            "platform": "hackernews"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      },
+      {
+        "topic": "tools",
+        "mention_count": 25,
+        "engagement_score": 117.3,
+        "sentiment": {
+          "positive": 13,
+          "negative": 12,
+          "neutral": 0,
+          "details": [
+            {
+              "label": "negative",
+              "score": 0.693
+            },
+            {
+              "label": "positive",
+              "score": 0.999
+            },
+            {
+              "label": "negative",
+              "score": 0.976
+            },
+            {
+              "label": "positive",
+              "score": 0.526
+            },
+            {
+              "label": "negative",
+              "score": 1.0
+            },
+            {
+              "label": "positive",
+              "score": 0.996
+            },
+            {
+              "label": "positive",
+              "score": 0.996
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            },
+            {
+              "label": "positive",
+              "score": 0.992
+            },
+            {
+              "label": "positive",
+              "score": 0.999
+            },
+            {
+              "label": "negative",
+              "score": 0.981
+            },
+            {
+              "label": "negative",
+              "score": 0.999
+            },
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.996
+            },
+            {
+              "label": "positive",
+              "score": 1.0
+            },
+            {
+              "label": "positive",
+              "score": 0.643
+            },
+            {
+              "label": "negative",
+              "score": 0.82
+            },
+            {
+              "label": "negative",
+              "score": 0.997
+            },
+            {
+              "label": "negative",
+              "score": 0.992
+            },
+            {
+              "label": "positive",
+              "score": 0.989
+            },
+            {
+              "label": "positive",
+              "score": 0.977
+            },
+            {
+              "label": "positive",
+              "score": 0.998
+            },
+            {
+              "label": "negative",
+              "score": 0.989
+            },
+            {
+              "label": "negative",
+              "score": 0.998
+            },
+            {
+              "label": "positive",
+              "score": 0.998
+            }
+          ],
+          "positive_pct": 52.0,
+          "negative_pct": 48.0
+        },
+        "platforms": [
+          "hackernews",
+          "youtube"
+        ],
+        "sample_posts": [
+          {
+            "text": "The AI Tools You'll ACTUALLY Use in 2026!. I've tested hundreds of AI tools and most people are using the wrong ones for the wrong tasks. In this vide",
+            "url": "https://youtube.com/watch?v=FhtzROwyung",
+            "platform": "youtube"
+          },
+          {
+            "text": "5 AI Tools Rich People Use But Never Share \ud83e\udd2b. The wealthy aren't working harder \u2014 they're using AI tools that multiply their effort while everyone els",
+            "url": "https://youtube.com/watch?v=CpELWh9SPbw",
+            "platform": "youtube"
+          },
+          {
+            "text": "The Best A.I Tools For Content. Want a 15-Min Strategy Call to Grow Your Brand? Watch this short video & apply below \ud83d\udc47\n\n\nFree Live Event: How to Build",
+            "url": "https://youtube.com/watch?v=DledIJMgH7A",
+            "platform": "youtube"
+          }
+        ],
+        "trending_velocity": "\ud83d\udd25 rising_fast"
+      }
+    ],
+    "most_engaging_topic": {
+      "topic": "manager",
+      "mention_count": 2,
+      "engagement_score": 2272.88,
+      "sentiment": {
+        "positive": 0,
+        "negative": 2,
+        "neutral": 0,
+        "details": [
+          {
+            "label": "negative",
+            "score": 0.933
+          },
+          {
+            "label": "negative",
+            "score": 0.992
+          }
+        ],
+        "positive_pct": 0.0,
+        "negative_pct": 100.0
+      },
+      "platforms": [
+        "youtube",
+        "github"
+      ],
+      "sample_posts": [
+        {
+          "text": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer",
+          "url": "https://github.com/garrytan/gstack",
+          "platform": "github"
+        },
+        {
+          "text": "SaaS Operations Manager. A SaaS Operations Manager powered by Ask AI helps agency owners manage SaaS plans, pricing, features, workflows, and account ",
+          "url": "https://youtube.com/watch?v=sKUpfHr1RMg",
+          "platform": "youtube"
+        }
+      ],
+      "trending_velocity": "\ud83d\udd25 rising_fast"
+    },
+    "sentiment_overview": {
+      "overall": "negative",
+      "positive_pct": 36.7
+    }
+  }
+}
