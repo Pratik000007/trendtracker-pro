@@ -10,6 +10,23 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import time
 
+
+# ==================== NLTK AUTO-DOWNLOAD ====================
+import nltk
+nltk_packages = ['punkt', 'stopwords', 'averaged_perceptron_tagger', 'punkt_tab']
+for pkg in nltk_packages:
+    try:
+        if pkg == 'punkt':
+            nltk.data.find(f'tokenizers/{pkg}')
+        elif pkg == 'stopwords':
+            nltk.data.find(f'corpora/{pkg}')
+        elif pkg == 'punkt_tab':
+            nltk.data.find(f'tokenizers/{pkg}')
+        else:
+            nltk.data.find(f'taggers/{pkg}')
+    except LookupError:
+        nltk.download(pkg, quiet=True)
+
 # Page config
 st.set_page_config(
     page_title="TrendTracker Pro",
